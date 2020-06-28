@@ -1,0 +1,4396 @@
+{
+  "symbols": [
+    {
+      "index": 0,
+      "symbol": "marvosym-OT1-_Smiley"
+    },
+    {
+      "index": 1,
+      "symbol": "latex2e-OT1-_textgreater"
+    },
+    {
+      "index": 2,
+      "symbol": "dsfont-OT1-_mathds{R}"
+    },
+    {
+      "index": 3,
+      "symbol": "gensymb-OT1-_degree"
+    },
+    {
+      "index": 4,
+      "symbol": "latex2e-OT1-_sum"
+    },
+    {
+      "index": 5,
+      "symbol": "tipa-OT1-_textyogh"
+    },
+    {
+      "index": 6,
+      "symbol": "latex2e-OT1-_pm"
+    },
+    {
+      "index": 7,
+      "symbol": "latex2e-OT1-_oint"
+    },
+    {
+      "index": 8,
+      "symbol": "latex2e-OT1-_perp"
+    },
+    {
+      "index": 9,
+      "symbol": "amssymb-OT1-_therefore"
+    },
+    {
+      "index": 10,
+      "symbol": "latex2e-OT1-_hookrightarrow"
+    },
+    {
+      "index": 11,
+      "symbol": "latex2e-OT1-_forall"
+    },
+    {
+      "index": 12,
+      "symbol": "latex2e-OT1-_wedge"
+    },
+    {
+      "index": 13,
+      "symbol": "amssymb-OT1-_checkmark"
+    },
+    {
+      "index": 14,
+      "symbol": "upgreek-OT1-_upalpha"
+    },
+    {
+      "index": 15,
+      "symbol": "latex2e-OT1-_sqsubseteq"
+    },
+    {
+      "index": 16,
+      "symbol": "latex2e-OT1-_int"
+    },
+    {
+      "index": 17,
+      "symbol": "dsfont-OT1-_mathds{C}"
+    },
+    {
+      "index": 18,
+      "symbol": "latex2e-OT1-_sim"
+    },
+    {
+      "index": 19,
+      "symbol": "latex2e-OT1-_diamondsuit"
+    },
+    {
+      "index": 20,
+      "symbol": "latex2e-OT1-_xi"
+    },
+    {
+      "index": 21,
+      "symbol": "latex2e-OT1-_subset"
+    },
+    {
+      "index": 22,
+      "symbol": "latex2e-OT1-_alpha"
+    },
+    {
+      "index": 23,
+      "symbol": "amssymb-OT1-_mathcal{G}"
+    },
+    {
+      "index": 24,
+      "symbol": "tipa-OT1-_textesh"
+    },
+    {
+      "index": 25,
+      "symbol": "latex2e-OT1-_omega"
+    },
+    {
+      "index": 26,
+      "symbol": "amssymb-OT1-_leq"
+    },
+    {
+      "index": 27,
+      "symbol": "latex2e-OT1-_ni"
+    },
+    {
+      "index": 28,
+      "symbol": "latex2e-OT1-_bigcup"
+    },
+    {
+      "index": 29,
+      "symbol": "latex2e-OT1-_textasteriskcentered"
+    },
+    {
+      "index": 30,
+      "symbol": "latex2e-OT1-["
+    },
+    {
+      "index": 31,
+      "symbol": "amssymb-OT1-_gtrsim"
+    },
+    {
+      "index": 32,
+      "symbol": "latex2e-OT1-_sigma"
+    },
+    {
+      "index": 33,
+      "symbol": "latex2e-OT1-_&"
+    },
+    {
+      "index": 34,
+      "symbol": "latex2e-OT1-_odot"
+    },
+    {
+      "index": 35,
+      "symbol": "latex2e-OT1-_infty"
+    },
+    {
+      "index": 36,
+      "symbol": "latex2e-OT1-_exists"
+    },
+    {
+      "index": 37,
+      "symbol": "latex2e-OT1-_ae"
+    },
+    {
+      "index": 38,
+      "symbol": "latex2e-OT1-_eta"
+    },
+    {
+      "index": 39,
+      "symbol": "amssymb-OT1-_nleq"
+    },
+    {
+      "index": 40,
+      "symbol": "marvosym-OT1-_Yinyang"
+    },
+    {
+      "index": 41,
+      "symbol": "marvosym-OT1-_MVAt"
+    },
+    {
+      "index": 42,
+      "symbol": "latex2e-OT1-_Delta"
+    },
+    {
+      "index": 43,
+      "symbol": "amssymb-OT1-_lesssim"
+    },
+    {
+      "index": 44,
+      "symbol": "latex2e-OT1-_tau"
+    },
+    {
+      "index": 45,
+      "symbol": "amssymb-OT1-_mathcal{D}"
+    },
+    {
+      "index": 46,
+      "symbol": "amssymb-OT1-_leqslant"
+    },
+    {
+      "index": 47,
+      "symbol": "latex2e-OT1-_lfloor"
+    },
+    {
+      "index": 48,
+      "symbol": "wasysym-OT1-_fullmoon"
+    },
+    {
+      "index": 49,
+      "symbol": "stmaryrd-OT1-_llbracket"
+    },
+    {
+      "index": 50,
+      "symbol": "latex2e-OT1-_nabla"
+    },
+    {
+      "index": 51,
+      "symbol": "amssymb-OT1-_because"
+    },
+    {
+      "index": 52,
+      "symbol": "latexsym-OT1-_leadsto"
+    },
+    {
+      "index": 53,
+      "symbol": "upgreek-OT1-_upeta"
+    },
+    {
+      "index": 54,
+      "symbol": "latex2e-OT1-_partial"
+    },
+    {
+      "index": 55,
+      "symbol": "latex2e-OT1-_#"
+    },
+    {
+      "index": 56,
+      "symbol": "latex2e-OT1-_Longrightarrow"
+    },
+    {
+      "index": 57,
+      "symbol": "gensymb-OT1-_celsius"
+    },
+    {
+      "index": 58,
+      "symbol": "stmaryrd-OT1-_llfloor"
+    },
+    {
+      "index": 59,
+      "symbol": "latex2e-OT1-_times"
+    },
+    {
+      "index": 60,
+      "symbol": "amssymb-OT1-_diagdown"
+    },
+    {
+      "index": 61,
+      "symbol": "latex2e-OT1-_upsilon"
+    },
+    {
+      "index": 62,
+      "symbol": "latex2e-OT1-_prod"
+    },
+    {
+      "index": 63,
+      "symbol": "latex2e-OT1-_lambda"
+    },
+    {
+      "index": 64,
+      "symbol": "latex2e-OT1-_textendash"
+    },
+    {
+      "index": 65,
+      "symbol": "upgreek-OT1-_upvarepsilon"
+    },
+    {
+      "index": 66,
+      "symbol": "latex2e-OT1-_equiv"
+    },
+    {
+      "index": 67,
+      "symbol": "amssymb-OT1-_varsubsetneq"
+    },
+    {
+      "index": 68,
+      "symbol": "latex2e-OT1-_otimes"
+    },
+    {
+      "index": 69,
+      "symbol": "latex2e-OT1-_rightleftharpoons"
+    },
+    {
+      "index": 70,
+      "symbol": "latex2e-OT1-_Psi"
+    },
+    {
+      "index": 71,
+      "symbol": "latex2e-OT1-_mapsto"
+    },
+    {
+      "index": 72,
+      "symbol": "amssymb-OT1-_bigstar"
+    },
+    {
+      "index": 73,
+      "symbol": "latex2e-OT1-_pi"
+    },
+    {
+      "index": 74,
+      "symbol": "marvosym-OT1-_Bat"
+    },
+    {
+      "index": 75,
+      "symbol": "latex2e-OT1-_Omega"
+    },
+    {
+      "index": 76,
+      "symbol": "latex2e-OT1-_approx"
+    },
+    {
+      "index": 77,
+      "symbol": "upgreek-OT1-_uppi"
+    },
+    {
+      "index": 78,
+      "symbol": "amssymb-OT1-_mathfrak{S}"
+    },
+    {
+      "index": 79,
+      "symbol": "latex2e-OT1-_psi"
+    },
+    {
+      "index": 80,
+      "symbol": "textcomp-OT1-_textonehalf"
+    },
+    {
+      "index": 81,
+      "symbol": "textcomp-OT1-_textestimated"
+    },
+    {
+      "index": 82,
+      "symbol": "latex2e-OT1-_propto"
+    },
+    {
+      "index": 83,
+      "symbol": "latex2e-OT1-_Sigma"
+    },
+    {
+      "index": 84,
+      "symbol": "upgreek-OT1-_upxi"
+    },
+    {
+      "index": 85,
+      "symbol": "textcomp-OT1-_textdegree"
+    },
+    {
+      "index": 86,
+      "symbol": "latex2e-OT1-_simeq"
+    },
+    {
+      "index": 87,
+      "symbol": "latex2e-OT1-_cup"
+    },
+    {
+      "index": 88,
+      "symbol": "amssymb-OT1-_hbar"
+    },
+    {
+      "index": 89,
+      "symbol": "latex2e-OT1-_Rightarrow"
+    },
+    {
+      "index": 90,
+      "symbol": "latex2e-OT1-_subseteq"
+    },
+    {
+      "index": 91,
+      "symbol": "marvosym-OT1-_fax"
+    },
+    {
+      "index": 92,
+      "symbol": "latex2e-OT1-_colon"
+    },
+    {
+      "index": 93,
+      "symbol": "latex2e-OT1-_beta"
+    },
+    {
+      "index": 94,
+      "symbol": "latex2e-OT1-_cong"
+    },
+    {
+      "index": 95,
+      "symbol": "latex2e-OT1-_mu"
+    },
+    {
+      "index": 96,
+      "symbol": "latex2e-OT1-_sqrt{}"
+    },
+    {
+      "index": 97,
+      "symbol": "marvosym-OT1-_Cross"
+    },
+    {
+      "index": 98,
+      "symbol": "wasysym-OT1-_mercury"
+    },
+    {
+      "index": 99,
+      "symbol": "amssymb-OT1-_subsetneq"
+    },
+    {
+      "index": 100,
+      "symbol": "latex2e-OT1-_bot"
+    },
+    {
+      "index": 101,
+      "symbol": "latex2e-OT1-/"
+    },
+    {
+      "index": 102,
+      "symbol": "dsfont-OT1-_mathds{N}"
+    },
+    {
+      "index": 103,
+      "symbol": "amssymb-OT1-_boxdot"
+    },
+    {
+      "index": 104,
+      "symbol": "amssymb-OT1-_ll"
+    },
+    {
+      "index": 105,
+      "symbol": "amssymb-OT1-_neq"
+    },
+    {
+      "index": 106,
+      "symbol": "latex2e-OT1-_leftrightarrow"
+    },
+    {
+      "index": 107,
+      "symbol": "latex2e-OT1-_ddots"
+    },
+    {
+      "index": 108,
+      "symbol": "latex2e-OT1-_%"
+    },
+    {
+      "index": 109,
+      "symbol": "textcomp-OT1-_textdblhyphen"
+    },
+    {
+      "index": 110,
+      "symbol": "latex2e-OT1-_textless"
+    },
+    {
+      "index": 111,
+      "symbol": "wasysym-OT1-_diameter"
+    },
+    {
+      "index": 112,
+      "symbol": "amssymb-OT1-_nmid"
+    },
+    {
+      "index": 113,
+      "symbol": "latex2e-OT1-_Xi"
+    },
+    {
+      "index": 114,
+      "symbol": "upgreek-OT1-_uptau"
+    },
+    {
+      "index": 115,
+      "symbol": "amssymb-OT1-_nexists"
+    },
+    {
+      "index": 116,
+      "symbol": "latex2e-OT1-_ominus"
+    },
+    {
+      "index": 117,
+      "symbol": "latex2e-OT1-_varphi"
+    },
+    {
+      "index": 118,
+      "symbol": "textcomp-OT1-_textdiscount"
+    },
+    {
+      "index": 119,
+      "symbol": "latex2e-OT1-_notin"
+    },
+    {
+      "index": 120,
+      "symbol": "amssymb-OT1-_mathcal{U}"
+    },
+    {
+      "index": 121,
+      "symbol": "upgreek-OT1-_uprho"
+    },
+    {
+      "index": 122,
+      "symbol": "upgreek-OT1-_upphi"
+    },
+    {
+      "index": 123,
+      "symbol": "latex2e-OT1-_{"
+    },
+    {
+      "index": 124,
+      "symbol": "latex2e-OT1-_langle"
+    },
+    {
+      "index": 125,
+      "symbol": "wasysym-OT1-_astrosun"
+    },
+    {
+      "index": 126,
+      "symbol": "latex2e-OT1-_delta"
+    },
+    {
+      "index": 127,
+      "symbol": "latex2e-OT1-_triangle"
+    },
+    {
+      "index": 128,
+      "symbol": "latex2e-OT1-_ast"
+    },
+    {
+      "index": 129,
+      "symbol": "amssymb-OT1-_nrightarrow"
+    },
+    {
+      "index": 130,
+      "symbol": "latex2e-OT1-_copyright"
+    },
+    {
+      "index": 131,
+      "symbol": "upgreek-OT1-_upmu"
+    },
+    {
+      "index": 132,
+      "symbol": "amssymb-OT1-_boxtimes"
+    },
+    {
+      "index": 133,
+      "symbol": "amssymb-OT1-_square"
+    },
+    {
+      "index": 134,
+      "symbol": "latex2e-OT1-_vartheta"
+    },
+    {
+      "index": 135,
+      "symbol": "latex2e-OT1-_textasciitilde"
+    },
+    {
+      "index": 136,
+      "symbol": "latex2e-T1-_DJ"
+    },
+    {
+      "index": 137,
+      "symbol": "amssymb-OT1-_mathcal{Z}"
+    },
+    {
+      "index": 138,
+      "symbol": "tipa-OT1-_textlhtlongi"
+    },
+    {
+      "index": 139,
+      "symbol": "mathrsfs-OT1-_mathscr{G}"
+    },
+    {
+      "index": 140,
+      "symbol": "amssymb-OT1-_mathcal{K}"
+    },
+    {
+      "index": 141,
+      "symbol": "amssymb-OT1-_geqslant"
+    },
+    {
+      "index": 142,
+      "symbol": "latex2e-OT1-_$"
+    },
+    {
+      "index": 143,
+      "symbol": "amssymb-OT1-_Subset"
+    },
+    {
+      "index": 144,
+      "symbol": "stmaryrd-OT1-_nnearrow"
+    },
+    {
+      "index": 145,
+      "symbol": "latex2e-OT1-_textunderscore"
+    },
+    {
+      "index": 146,
+      "symbol": "latex2e-OT1-_rightarrow"
+    },
+    {
+      "index": 147,
+      "symbol": "latex2e-OT1-_textsection"
+    },
+    {
+      "index": 148,
+      "symbol": "wasysym-OT1-_ocircle"
+    },
+    {
+      "index": 149,
+      "symbol": "latex2e-OT1-_textbraceleft"
+    },
+    {
+      "index": 150,
+      "symbol": "amssymb-OT1-_thickapprox"
+    },
+    {
+      "index": 151,
+      "symbol": "tipa-OT1-_texttheta"
+    },
+    {
+      "index": 152,
+      "symbol": "latex2e-OT1-_AA"
+    },
+    {
+      "index": 153,
+      "symbol": "latex2e-OT1-_spadesuit"
+    },
+    {
+      "index": 154,
+      "symbol": "latex2e-OT1-_textordfeminine"
+    },
+    {
+      "index": 155,
+      "symbol": "wasysym-OT1-_unlhd"
+    },
+    {
+      "index": 156,
+      "symbol": "latex2e-OT1-_circ"
+    },
+    {
+      "index": 157,
+      "symbol": "wasysym-OT1-_female"
+    },
+    {
+      "index": 158,
+      "symbol": "latex2e-OT1-_prec"
+    },
+    {
+      "index": 159,
+      "symbol": "latex2e-OT1-_gamma"
+    },
+    {
+      "index": 160,
+      "symbol": "amssymb-OT1-_approxeq"
+    },
+    {
+      "index": 161,
+      "symbol": "latex2e-OT1-_diamond"
+    },
+    {
+      "index": 162,
+      "symbol": "latex2e-T1-_quotedblbase"
+    },
+    {
+      "index": 163,
+      "symbol": "latex2e-OT1-_Pi"
+    },
+    {
+      "index": 164,
+      "symbol": "dsfont-OT1-_mathds{Z}"
+    },
+    {
+      "index": 165,
+      "symbol": "wasysym-OT1-_jupiter"
+    },
+    {
+      "index": 166,
+      "symbol": "latex2e-OT1-_downarrow"
+    },
+    {
+      "index": 167,
+      "symbol": "latex2e-OT1-_not_simeq"
+    },
+    {
+      "index": 168,
+      "symbol": "latex2e-OT1-_chi"
+    },
+    {
+      "index": 169,
+      "symbol": "latex2e-OT1-_Downarrow"
+    },
+    {
+      "index": 170,
+      "symbol": "tipa-OT1-_textgamma"
+    },
+    {
+      "index": 171,
+      "symbol": "amsmath-OT1-_idotsint"
+    },
+    {
+      "index": 172,
+      "symbol": "marvosym-OT1-_Ecommerce"
+    },
+    {
+      "index": 173,
+      "symbol": "wasysym-OT1-_smiley"
+    },
+    {
+      "index": 174,
+      "symbol": "tipa-OT1-_textcrlambda"
+    },
+    {
+      "index": 175,
+      "symbol": "marvosym-OT1-_Heart"
+    },
+    {
+      "index": 176,
+      "symbol": "latex2e-OT1-_longrightarrow"
+    },
+    {
+      "index": 177,
+      "symbol": "amssymb-OT1-_mathcal{I}"
+    },
+    {
+      "index": 178,
+      "symbol": "amssymb-OT1-_mathcal{L}"
+    },
+    {
+      "index": 179,
+      "symbol": "amssymb-OT1-_mathfrak{P}"
+    },
+    {
+      "index": 180,
+      "symbol": "marvosym-OT1-_EUR"
+    },
+    {
+      "index": 181,
+      "symbol": "latex2e-OT1-_vdash"
+    },
+    {
+      "index": 182,
+      "symbol": "bbold-OT1-_mathbb{1}"
+    },
+    {
+      "index": 183,
+      "symbol": "marvosym-OT1-_Pluto"
+    },
+    {
+      "index": 184,
+      "symbol": "latex2e-OT1-_prime"
+    },
+    {
+      "index": 185,
+      "symbol": "tipa-OT1-_textbaro"
+    },
+    {
+      "index": 186,
+      "symbol": "latex2e-OT1-_emptyset"
+    },
+    {
+      "index": 187,
+      "symbol": "latex2e-OT1-_in"
+    },
+    {
+      "index": 188,
+      "symbol": "tipa-OT1-_textscripta"
+    },
+    {
+      "index": 189,
+      "symbol": "latex2e-OT1-_rho"
+    },
+    {
+      "index": 190,
+      "symbol": "textcomp-OT1-_textlbrackdbl"
+    },
+    {
+      "index": 191,
+      "symbol": "latex2e-OT1-_varepsilon"
+    },
+    {
+      "index": 192,
+      "symbol": "textcomp-OT1-_textrecipe"
+    },
+    {
+      "index": 193,
+      "symbol": "textcomp-OT1-_textsurd"
+    },
+    {
+      "index": 194,
+      "symbol": "wasysym-OT1-_mars"
+    },
+    {
+      "index": 195,
+      "symbol": "latex2e-OT1-_Upsilon"
+    },
+    {
+      "index": 196,
+      "symbol": "latex2e-OT1-_lceil"
+    },
+    {
+      "index": 197,
+      "symbol": "stmaryrd-OT1-_shortrightarrow"
+    },
+    {
+      "index": 198,
+      "symbol": "latex2e-OT1-_ell"
+    },
+    {
+      "index": 199,
+      "symbol": "latex2e-OT1-_theta"
+    },
+    {
+      "index": 200,
+      "symbol": "textcomp-OT1-_textmusicalnote"
+    },
+    {
+      "index": 201,
+      "symbol": "latex2e-OT1-_epsilon"
+    },
+    {
+      "index": 202,
+      "symbol": "textcomp-OT1-_textopenbullet"
+    },
+    {
+      "index": 203,
+      "symbol": "amssymb-OT1-_varkappa"
+    },
+    {
+      "index": 204,
+      "symbol": "wasysym-OT1-_neptune"
+    },
+    {
+      "index": 205,
+      "symbol": "wasysym-OT1-_pluto"
+    },
+    {
+      "index": 206,
+      "symbol": "latex2e-OT1-_aleph"
+    },
+    {
+      "index": 207,
+      "symbol": "amssymb-OT1-_blacksquare"
+    },
+    {
+      "index": 208,
+      "symbol": "stmaryrd-OT1-_lightning"
+    },
+    {
+      "index": 209,
+      "symbol": "latex2e-OT1-_longleftrightarrow"
+    },
+    {
+      "index": 210,
+      "symbol": "latex2e-OT1-_dashv"
+    },
+    {
+      "index": 211,
+      "symbol": "mathrsfs-OT1-_mathscr{S}"
+    },
+    {
+      "index": 212,
+      "symbol": "textcomp-OT1-_texttimes"
+    },
+    {
+      "index": 213,
+      "symbol": "mathrsfs-OT1-_mathscr{B}"
+    },
+    {
+      "index": 214,
+      "symbol": "amssymb-OT1-_mathfrak{K}"
+    },
+    {
+      "index": 215,
+      "symbol": "marvosym-OT1-_CircledA"
+    },
+    {
+      "index": 216,
+      "symbol": "marvosym-OT1-_Frowny"
+    },
+    {
+      "index": 217,
+      "symbol": "amssymb-OT1-_mathfrak{M}"
+    },
+    {
+      "index": 218,
+      "symbol": "mathrsfs-OT1-_mathscr{D}"
+    },
+    {
+      "index": 219,
+      "symbol": "marvosym-OT1-_Earth"
+    },
+    {
+      "index": 220,
+      "symbol": "latex2e-OT1-_bullet"
+    },
+    {
+      "index": 221,
+      "symbol": "wasysym-OT1-_frownie"
+    },
+    {
+      "index": 222,
+      "symbol": "amssymb-OT1-_mathcal{V}"
+    },
+    {
+      "index": 223,
+      "symbol": "wasysym-OT1-_uranus"
+    },
+    {
+      "index": 224,
+      "symbol": "latex2e-OT1-_textquotedblleft"
+    },
+    {
+      "index": 225,
+      "symbol": "latex2e-OT1-_heartsuit"
+    },
+    {
+      "index": 226,
+      "symbol": "latex2e-OT1-_textbackslash"
+    },
+    {
+      "index": 227,
+      "symbol": "marvosym-OT1-_Faxmachine"
+    },
+    {
+      "index": 228,
+      "symbol": "tipa-OT1-_textlengthmark"
+    },
+    {
+      "index": 229,
+      "symbol": "latex2e-OT1-_uparrow"
+    },
+    {
+      "index": 230,
+      "symbol": "amssymb-OT1-_mathfrak{A}"
+    },
+    {
+      "index": 231,
+      "symbol": "amssymb-OT1-_barwedge"
+    },
+    {
+      "index": 232,
+      "symbol": "latex2e-OT1-_bigodot"
+    },
+    {
+      "index": 233,
+      "symbol": "latex2e-OT1-_succ"
+    },
+    {
+      "index": 234,
+      "symbol": "amssymb-OT1-_geq"
+    },
+    {
+      "index": 235,
+      "symbol": "tipa-OT1-_textlambda"
+    },
+    {
+      "index": 236,
+      "symbol": "tipa-OT1-_textturnw"
+    },
+    {
+      "index": 237,
+      "symbol": "textcomp-OT1-_textnumero"
+    },
+    {
+      "index": 238,
+      "symbol": "latex2e-OT1-_ss"
+    },
+    {
+      "index": 239,
+      "symbol": "latex2e-T1-_ng"
+    },
+    {
+      "index": 240,
+      "symbol": "tipa-OT1-_textbarrevglotstop"
+    },
+    {
+      "index": 241,
+      "symbol": "latex2e-OT1-_triangleleft"
+    },
+    {
+      "index": 242,
+      "symbol": "amssymb-OT1-_intercal"
+    },
+    {
+      "index": 243,
+      "symbol": "latex2e-OT1-_cdot"
+    },
+    {
+      "index": 244,
+      "symbol": "amssymb-OT1-_triangleq"
+    },
+    {
+      "index": 245,
+      "symbol": "latex2e-OT1-_supset"
+    },
+    {
+      "index": 246,
+      "symbol": "amssymb-OT1-_dashrightarrow"
+    },
+    {
+      "index": 247,
+      "symbol": "latex2e-OT1-_vdots"
+    },
+    {
+      "index": 248,
+      "symbol": "amssymb-OT1-_mathcal{R}"
+    },
+    {
+      "index": 249,
+      "symbol": "dsfont-OT1-_mathds{1}"
+    },
+    {
+      "index": 250,
+      "symbol": "latex2e-OT1-_rightharpoonup"
+    },
+    {
+      "index": 251,
+      "symbol": "latex2e-OT1-_Uparrow"
+    },
+    {
+      "index": 252,
+      "symbol": "latex2e-OT1-_textasciicircum"
+    },
+    {
+      "index": 253,
+      "symbol": "amssymb-OT1-_varnothing"
+    },
+    {
+      "index": 254,
+      "symbol": "latex2e-OT1-_textcopyright"
+    },
+    {
+      "index": 255,
+      "symbol": "latex2e-OT1-_cap"
+    },
+    {
+      "index": 256,
+      "symbol": "amssymb-OT1-_preccurlyeq"
+    },
+    {
+      "index": 257,
+      "symbol": "latex2e-OT1-_Leftrightarrow"
+    },
+    {
+      "index": 258,
+      "symbol": "textcomp-OT1-_textcopyleft"
+    },
+    {
+      "index": 259,
+      "symbol": "wasysym-OT1-_checked"
+    },
+    {
+      "index": 260,
+      "symbol": "amssymb-OT1-_lneqq"
+    },
+    {
+      "index": 261,
+      "symbol": "latex2e-OT1-_l"
+    },
+    {
+      "index": 262,
+      "symbol": "latex2e-OT1-!`"
+    },
+    {
+      "index": 263,
+      "symbol": "marvosym-OT1-_Letter"
+    },
+    {
+      "index": 264,
+      "symbol": "mathrsfs-OT1-_mathscr{C}"
+    },
+    {
+      "index": 265,
+      "symbol": "amssymb-OT1-_gg"
+    },
+    {
+      "index": 266,
+      "symbol": "latex2e-OT1-_O"
+    },
+    {
+      "index": 267,
+      "symbol": "latex2e-OT1-_angle"
+    },
+    {
+      "index": 268,
+      "symbol": "latex2e-OT1-_not_equiv"
+    },
+    {
+      "index": 269,
+      "symbol": "amssymb-OT1-_nsucc"
+    },
+    {
+      "index": 270,
+      "symbol": "amssymb-OT1-_curvearrowright"
+    },
+    {
+      "index": 271,
+      "symbol": "amssymb-OT1-_circeq"
+    },
+    {
+      "index": 272,
+      "symbol": "latex2e-OT1-_vee"
+    },
+    {
+      "index": 273,
+      "symbol": "upgreek-OT1-_Uppsi"
+    },
+    {
+      "index": 274,
+      "symbol": "mathrsfs-OT1-_mathscr{L}"
+    },
+    {
+      "index": 275,
+      "symbol": "amssymb-OT1-_smallsetminus"
+    },
+    {
+      "index": 276,
+      "symbol": "amssymb-OT1-_mathcal{O}"
+    },
+    {
+      "index": 277,
+      "symbol": "latex2e-OT1-_textsterling"
+    },
+    {
+      "index": 278,
+      "symbol": "stmaryrd-OT1-_rightarrowtriangle"
+    },
+    {
+      "index": 279,
+      "symbol": "textcomp-OT1-_textdaggerdbl"
+    },
+    {
+      "index": 280,
+      "symbol": "tipa-OT1-_textdoublebarslash"
+    },
+    {
+      "index": 281,
+      "symbol": "latex2e-OT1-_bigwedge"
+    },
+    {
+      "index": 282,
+      "symbol": "amssymb-OT1-_mathcal{S}"
+    },
+    {
+      "index": 283,
+      "symbol": "wasysym-OT1-_gemini"
+    },
+    {
+      "index": 284,
+      "symbol": "upgreek-OT1-_Upomega"
+    },
+    {
+      "index": 285,
+      "symbol": "latex2e-OT1-_supseteq"
+    },
+    {
+      "index": 286,
+      "symbol": "latex2e-OT1-|"
+    },
+    {
+      "index": 287,
+      "symbol": "textcomp-OT1-_texttwosuperior"
+    },
+    {
+      "index": 288,
+      "symbol": "amssymb-OT1-_twoheadrightarrow"
+    },
+    {
+      "index": 289,
+      "symbol": "latex2e-OT1-_ddagger"
+    },
+    {
+      "index": 290,
+      "symbol": "stmaryrd-OT1-_mapsfrom"
+    },
+    {
+      "index": 291,
+      "symbol": "latex2e-OT1-_Lambda"
+    },
+    {
+      "index": 292,
+      "symbol": "amssymb-OT1-_circledcirc"
+    },
+    {
+      "index": 293,
+      "symbol": "latex2e-OT1-_iota"
+    },
+    {
+      "index": 294,
+      "symbol": "tipa-OT1-_textchi"
+    },
+    {
+      "index": 295,
+      "symbol": "latex2e-OT1-_dag"
+    },
+    {
+      "index": 296,
+      "symbol": "latex2e-OT1-_bigtriangleup"
+    },
+    {
+      "index": 297,
+      "symbol": "amssymb-OT1-_mathcal{E}"
+    },
+    {
+      "index": 298,
+      "symbol": "latex2e-OT1-_textemdash"
+    },
+    {
+      "index": 299,
+      "symbol": "latex2e-OT1-_swarrow"
+    },
+    {
+      "index": 300,
+      "symbol": "textcomp-OT1-_textquotesingle"
+    },
+    {
+      "index": 301,
+      "symbol": "latex2e-OT1-_textdollar"
+    },
+    {
+      "index": 302,
+      "symbol": "latex2e-OT1-_wp"
+    },
+    {
+      "index": 303,
+      "symbol": "esint-OT1-_varoiint"
+    },
+    {
+      "index": 304,
+      "symbol": "amssymb-OT1-_upharpoonright"
+    },
+    {
+      "index": 305,
+      "symbol": "dsfont-OT1-_mathds{Q}"
+    },
+    {
+      "index": 306,
+      "symbol": "amssymb-OT1-_mathcal{A}"
+    },
+    {
+      "index": 307,
+      "symbol": "wasysym-OT1-_lightning"
+    },
+    {
+      "index": 308,
+      "symbol": "amsmath-OT1-_iiint"
+    },
+    {
+      "index": 309,
+      "symbol": "latex2e-OT1-_S"
+    },
+    {
+      "index": 310,
+      "symbol": "latex2e-OT1-_phi"
+    },
+    {
+      "index": 311,
+      "symbol": "upgreek-OT1-_uptheta"
+    },
+    {
+      "index": 312,
+      "symbol": "latex2e-OT1-_----"
+    },
+    {
+      "index": 313,
+      "symbol": "amssymb-OT1-_downharpoonright"
+    },
+    {
+      "index": 314,
+      "symbol": "wasysym-OT1-_phone"
+    },
+    {
+      "index": 315,
+      "symbol": "tipa-OT1-_textpipe"
+    },
+    {
+      "index": 316,
+      "symbol": "textcomp-OT1-_textfractionsolidus"
+    },
+    {
+      "index": 317,
+      "symbol": "esint-OT1-_iiint"
+    },
+    {
+      "index": 318,
+      "symbol": "mathrsfs-OT1-_mathscr{E}"
+    },
+    {
+      "index": 319,
+      "symbol": "amssymb-OT1-_shortmid"
+    },
+    {
+      "index": 320,
+      "symbol": "amssymb-OT1-_mathfrak{F}"
+    },
+    {
+      "index": 321,
+      "symbol": "latex2e-OT1-_Longleftarrow"
+    },
+    {
+      "index": 322,
+      "symbol": "latex2e-OT1-_rightharpoondown"
+    },
+    {
+      "index": 323,
+      "symbol": "latex2e-OT1-_Im"
+    },
+    {
+      "index": 324,
+      "symbol": "stmaryrd-OT1-_rrbracket"
+    },
+    {
+      "index": 325,
+      "symbol": "latex2e-OT1-_varsigma"
+    },
+    {
+      "index": 326,
+      "symbol": "upgreek-OT1-_upvarphi"
+    },
+    {
+      "index": 327,
+      "symbol": "latex2e-OT1-_oe"
+    },
+    {
+      "index": 328,
+      "symbol": "amssymb-OT1-_gtrless"
+    },
+    {
+      "index": 329,
+      "symbol": "latex2e-OT1-_texttrademark"
+    },
+    {
+      "index": 330,
+      "symbol": "latex2e-OT1-_textregistered"
+    },
+    {
+      "index": 331,
+      "symbol": "latex2e-OT1-_mid"
+    },
+    {
+      "index": 332,
+      "symbol": "tipa-OT1-_textscr"
+    },
+    {
+      "index": 333,
+      "symbol": "textcomp-OT1-_textdollaroldstyle"
+    },
+    {
+      "index": 334,
+      "symbol": "marvosym-OT1-_Taurus"
+    },
+    {
+      "index": 335,
+      "symbol": "latex2e-OT1-_succeq"
+    },
+    {
+      "index": 336,
+      "symbol": "tipa-OT1-_textctj"
+    },
+    {
+      "index": 337,
+      "symbol": "latex2e-OT1-_parallel"
+    },
+    {
+      "index": 338,
+      "symbol": "amssymb-OT1-_nshortparallel"
+    },
+    {
+      "index": 339,
+      "symbol": "textcomp-OT1-_textbigcircle"
+    },
+    {
+      "index": 340,
+      "symbol": "amssymb-OT1-_mathcal{P}"
+    },
+    {
+      "index": 341,
+      "symbol": "latex2e-OT1-_bigvee"
+    },
+    {
+      "index": 342,
+      "symbol": "latex2e-OT1-_zeta"
+    },
+    {
+      "index": 343,
+      "symbol": "textcomp-OT1-_textyen"
+    },
+    {
+      "index": 344,
+      "symbol": "tipa-OT1-_textturnh"
+    },
+    {
+      "index": 345,
+      "symbol": "latex2e-OT1-_sharp"
+    },
+    {
+      "index": 346,
+      "symbol": "latex2e-OT1-_aa"
+    },
+    {
+      "index": 347,
+      "symbol": "tipa-OT1-_textomega"
+    },
+    {
+      "index": 348,
+      "symbol": "textcomp-OT1-_textlangle"
+    },
+    {
+      "index": 349,
+      "symbol": "amssymb-OT1-_nsubseteq"
+    },
+    {
+      "index": 350,
+      "symbol": "stmaryrd-OT1-_ssearrow"
+    },
+    {
+      "index": 351,
+      "symbol": "latex2e-OT1-_preceq"
+    },
+    {
+      "index": 352,
+      "symbol": "latex2e-OT1-_Phi"
+    },
+    {
+      "index": 353,
+      "symbol": "latex2e-OT1-_oplus"
+    },
+    {
+      "index": 354,
+      "symbol": "amssymb-OT1-_subsetneqq"
+    },
+    {
+      "index": 355,
+      "symbol": "tipa-OT1-_textrevapostrophe"
+    },
+    {
+      "index": 356,
+      "symbol": "amssymb-OT1-_mathcal{N}"
+    },
+    {
+      "index": 357,
+      "symbol": "tipa-OT1-_textturnr"
+    },
+    {
+      "index": 358,
+      "symbol": "mathrsfs-OT1-_mathscr{P}"
+    },
+    {
+      "index": 359,
+      "symbol": "latex2e-OT1-_frown"
+    },
+    {
+      "index": 360,
+      "symbol": "latex2e-OT1-_nu"
+    },
+    {
+      "index": 361,
+      "symbol": "amssymb-OT1-_varpropto"
+    },
+    {
+      "index": 362,
+      "symbol": "wasysym-OT1-_sun"
+    },
+    {
+      "index": 363,
+      "symbol": "latex2e-OT1-_smile"
+    },
+    {
+      "index": 364,
+      "symbol": "latex2e-OT1-_setminus"
+    },
+    {
+      "index": 365,
+      "symbol": "tipa-OT1-_texthardsign"
+    },
+    {
+      "index": 366,
+      "symbol": "amssymb-OT1-_mathfrak{X}"
+    },
+    {
+      "index": 367,
+      "symbol": "latex2e-OT1-_L"
+    },
+    {
+      "index": 368,
+      "symbol": "wasysym-OT1-_aries"
+    },
+    {
+      "index": 369,
+      "symbol": "amssymb-OT1-_dotplus"
+    },
+    {
+      "index": 370,
+      "symbol": "latex2e-OT1-_neg"
+    },
+    {
+      "index": 371,
+      "symbol": "latex2e-OT1-_bowtie"
+    },
+    {
+      "index": 372,
+      "symbol": "amssymb-OT1-_rtimes"
+    },
+    {
+      "index": 373,
+      "symbol": "textcomp-OT1-_textsection"
+    },
+    {
+      "index": 374,
+      "symbol": "latex2e-OT1-_Gamma"
+    },
+    {
+      "index": 375,
+      "symbol": "amssymb-OT1-_vDash"
+    },
+    {
+      "index": 376,
+      "symbol": "latex2e-OT1-_top"
+    },
+    {
+      "index": 377,
+      "symbol": "wasysym-OT1-_ascnode"
+    },
+    {
+      "index": 378,
+      "symbol": "latex2e-OT1-_bigoplus"
+    },
+    {
+      "index": 379,
+      "symbol": "textcomp-OT1-_textreferencemark"
+    },
+    {
+      "index": 380,
+      "symbol": "marvosym-OT1-_Neptune"
+    },
+    {
+      "index": 381,
+      "symbol": "latex2e-OT1-_models"
+    },
+    {
+      "index": 382,
+      "symbol": "amsmath-OT1-_dotsb"
+    },
+    {
+      "index": 383,
+      "symbol": "latex2e-OT1-]"
+    },
+    {
+      "index": 384,
+      "symbol": "latex2e-OT1-_bigotimes"
+    },
+    {
+      "index": 385,
+      "symbol": "amssymb-OT1-_Vdash"
+    },
+    {
+      "index": 386,
+      "symbol": "esint-OT1-_iint"
+    },
+    {
+      "index": 387,
+      "symbol": "tipa-OT1-_texthth"
+    },
+    {
+      "index": 388,
+      "symbol": "mathrsfs-OT1-_mathscr{I}"
+    },
+    {
+      "index": 389,
+      "symbol": "mathrsfs-OT1-_mathscr{A}"
+    },
+    {
+      "index": 390,
+      "symbol": "latex2e-OT1-_uplus"
+    },
+    {
+      "index": 391,
+      "symbol": "latex2e-OT1-_not_approx"
+    },
+    {
+      "index": 392,
+      "symbol": "wasysym-OT1-_cancer"
+    },
+    {
+      "index": 393,
+      "symbol": "latex2e-OT1-_dagger"
+    },
+    {
+      "index": 394,
+      "symbol": "latex2e-OT1-_amalg"
+    },
+    {
+      "index": 395,
+      "symbol": "latex2e-OT1-_rangle"
+    },
+    {
+      "index": 396,
+      "symbol": "latex2e-OT1-_mathunderscore"
+    },
+    {
+      "index": 397,
+      "symbol": "amssymb-OT1-_mathcal{H}"
+    },
+    {
+      "index": 398,
+      "symbol": "latex2e-OT1-_bigcap"
+    },
+    {
+      "index": 399,
+      "symbol": "amssymb-OT1-_triangledown"
+    },
+    {
+      "index": 400,
+      "symbol": "latex2e-OT1-_}"
+    },
+    {
+      "index": 401,
+      "symbol": "latex2e-T1-_textquotedbl"
+    },
+    {
+      "index": 402,
+      "symbol": "latex2e-OT1-_nearrow"
+    },
+    {
+      "index": 403,
+      "symbol": "textcomp-OT1-_textpm"
+    },
+    {
+      "index": 404,
+      "symbol": "upgreek-OT1-_Uppi"
+    },
+    {
+      "index": 405,
+      "symbol": "amssymb-OT1-_mho"
+    },
+    {
+      "index": 406,
+      "symbol": "latex2e-OT1-_mp"
+    },
+    {
+      "index": 407,
+      "symbol": "cmll-OT1-_with"
+    },
+    {
+      "index": 408,
+      "symbol": "amssymb-OT1-_sqsubset"
+    },
+    {
+      "index": 409,
+      "symbol": "marvosym-OT1-_Cancer"
+    },
+    {
+      "index": 410,
+      "symbol": "tipa-OT1-_textrtailt"
+    },
+    {
+      "index": 411,
+      "symbol": "upgreek-OT1-_upchi"
+    },
+    {
+      "index": 412,
+      "symbol": "latex2e-OT1-_searrow"
+    },
+    {
+      "index": 413,
+      "symbol": "amssymb-OT1-_blacktriangleleft"
+    },
+    {
+      "index": 414,
+      "symbol": "latex2e-OT1-_--"
+    },
+    {
+      "index": 415,
+      "symbol": "upgreek-OT1-_upgamma"
+    },
+    {
+      "index": 416,
+      "symbol": "amssymb-OT1-_doteqdot"
+    },
+    {
+      "index": 417,
+      "symbol": "latex2e-T1-_dh"
+    },
+    {
+      "index": 418,
+      "symbol": "amssymb-OT1-_boxplus"
+    },
+    {
+      "index": 419,
+      "symbol": "wasysym-OT1-_rhd"
+    },
+    {
+      "index": 420,
+      "symbol": "textcomp-OT1-_textcent"
+    },
+    {
+      "index": 421,
+      "symbol": "tipa-OT1-_textscomega"
+    },
+    {
+      "index": 422,
+      "symbol": "stmaryrd-OT1-_rbag"
+    },
+    {
+      "index": 423,
+      "symbol": "latex2e-OT1-_sqcup"
+    },
+    {
+      "index": 424,
+      "symbol": "upgreek-OT1-_Upsigma"
+    },
+    {
+      "index": 425,
+      "symbol": "tipa-OT1-_textsca"
+    },
+    {
+      "index": 426,
+      "symbol": "latex2e-OT1-_varpi"
+    },
+    {
+      "index": 427,
+      "symbol": "amssymb-OT1-_mathfrak{R}"
+    },
+    {
+      "index": 428,
+      "symbol": "amssymb-OT1-_gtreqless"
+    },
+    {
+      "index": 429,
+      "symbol": "tipa-OT1-_textschwa"
+    },
+    {
+      "index": 430,
+      "symbol": "latex2e-OT1-_bigcirc"
+    },
+    {
+      "index": 431,
+      "symbol": "amssymb-OT1-_lessapprox"
+    },
+    {
+      "index": 432,
+      "symbol": "textcomp-OT1-_textrightarrow"
+    },
+    {
+      "index": 433,
+      "symbol": "tipa-OT1-_textg"
+    },
+    {
+      "index": 434,
+      "symbol": "amssymb-OT1-_mathcal{F}"
+    },
+    {
+      "index": 435,
+      "symbol": "dsfont-OT1-_mathds{E}"
+    },
+    {
+      "index": 436,
+      "symbol": "latex2e-OT1-_AE"
+    },
+    {
+      "index": 437,
+      "symbol": "mathrsfs-OT1-_mathscr{H}"
+    },
+    {
+      "index": 438,
+      "symbol": "amssymb-OT1-_mathcal{B}"
+    },
+    {
+      "index": 439,
+      "symbol": "latex2e-OT1-_sqsupseteq"
+    },
+    {
+      "index": 440,
+      "symbol": "amssymb-OT1-_rightsquigarrow"
+    },
+    {
+      "index": 441,
+      "symbol": "latex2e-OT1-_textexclamdown"
+    },
+    {
+      "index": 442,
+      "symbol": "latex2e-OT1-_o"
+    },
+    {
+      "index": 443,
+      "symbol": "tipa-OT1-_textscg"
+    },
+    {
+      "index": 444,
+      "symbol": "marvosym-OT1-_Mundus"
+    },
+    {
+      "index": 445,
+      "symbol": "wasysym-OT1-_newmoon"
+    },
+    {
+      "index": 446,
+      "symbol": "wasysym-OT1-_rightmoon"
+    },
+    {
+      "index": 447,
+      "symbol": "wasysym-OT1-_libra"
+    },
+    {
+      "index": 448,
+      "symbol": "amsmath-OT1-_dotsm"
+    },
+    {
+      "index": 449,
+      "symbol": "latex2e-OT1-_varrho"
+    },
+    {
+      "index": 450,
+      "symbol": "amsmath-OT1-_iiiint"
+    },
+    {
+      "index": 451,
+      "symbol": "amssymb-OT1-_backsim"
+    },
+    {
+      "index": 452,
+      "symbol": "amsmath-OT1-_iint"
+    },
+    {
+      "index": 453,
+      "symbol": "wasysym-OT1-_ataribox"
+    },
+    {
+      "index": 454,
+      "symbol": "latex2e-OT1-_kappa"
+    },
+    {
+      "index": 455,
+      "symbol": "amssymb-OT1-_ltimes"
+    },
+    {
+      "index": 456,
+      "symbol": "upgreek-OT1-_Uplambda"
+    },
+    {
+      "index": 457,
+      "symbol": "upgreek-OT1-_upbeta"
+    },
+    {
+      "index": 458,
+      "symbol": "amssymb-OT1-_measuredangle"
+    },
+    {
+      "index": 459,
+      "symbol": "latex2e-OT1-__"
+    },
+    {
+      "index": 460,
+      "symbol": "textcomp-OT1-_textcopyright"
+    },
+    {
+      "index": 461,
+      "symbol": "tipa-OT1-_textbabygamma"
+    },
+    {
+      "index": 462,
+      "symbol": "textcomp-OT1-_texttildelow"
+    },
+    {
+      "index": 463,
+      "symbol": "cmll-OT1-_parr"
+    },
+    {
+      "index": 464,
+      "symbol": "latex2e-OT1-_P"
+    },
+    {
+      "index": 465,
+      "symbol": "textcomp-OT1-_textquotestraightdblbase"
+    },
+    {
+      "index": 466,
+      "symbol": "latex2e-OT1-_leftarrow"
+    },
+    {
+      "index": 467,
+      "symbol": "marvosym-OT1-_Ankh"
+    },
+    {
+      "index": 468,
+      "symbol": "dsfont-OT1-_mathds{P}"
+    },
+    {
+      "index": 469,
+      "symbol": "latex2e-OT1-_|"
+    },
+    {
+      "index": 470,
+      "symbol": "esint-OT1-_ointctrclockwise"
+    },
+    {
+      "index": 471,
+      "symbol": "upgreek-OT1-_Updelta"
+    },
+    {
+      "index": 472,
+      "symbol": "latex2e-OT1-_Theta"
+    },
+    {
+      "index": 473,
+      "symbol": "latex2e-OT1-_backslash"
+    },
+    {
+      "index": 474,
+      "symbol": "latex2e-OT1-_sqcap"
+    },
+    {
+      "index": 475,
+      "symbol": "marvosym-OT1-_EURhv"
+    },
+    {
+      "index": 476,
+      "symbol": "gensymb-OT1-_ohm"
+    },
+    {
+      "index": 477,
+      "symbol": "amssymb-OT1-_thicksim"
+    },
+    {
+      "index": 478,
+      "symbol": "amssymb-OT1-_vartriangleright"
+    },
+    {
+      "index": 479,
+      "symbol": "upgreek-OT1-_upnu"
+    },
+    {
+      "index": 480,
+      "symbol": "latex2e-OT1-_hbar"
+    },
+    {
+      "index": 481,
+      "symbol": "amssymb-OT1-_blacktriangleright"
+    },
+    {
+      "index": 482,
+      "symbol": "latex2e-OT1-_jmath"
+    },
+    {
+      "index": 483,
+      "symbol": "wasysym-OT1-_pisces"
+    },
+    {
+      "index": 484,
+      "symbol": "amssymb-OT1-_nLeftrightarrow"
+    },
+    {
+      "index": 485,
+      "symbol": "amssymb-OT1-_ncong"
+    },
+    {
+      "index": 486,
+      "symbol": "mathrsfs-OT1-_mathscr{M}"
+    },
+    {
+      "index": 487,
+      "symbol": "marvosym-OT1-_Celtcross"
+    },
+    {
+      "index": 488,
+      "symbol": "textcomp-OT1-_textdiv"
+    },
+    {
+      "index": 489,
+      "symbol": "amssymb-OT1-_mathcal{M}"
+    },
+    {
+      "index": 490,
+      "symbol": "amssymb-OT1-_upuparrows"
+    },
+    {
+      "index": 491,
+      "symbol": "marvosym-OT1-_Mobilefone"
+    },
+    {
+      "index": 492,
+      "symbol": "skull-OT1-_skull"
+    },
+    {
+      "index": 493,
+      "symbol": "wasysym-OT1-_bell"
+    },
+    {
+      "index": 494,
+      "symbol": "upgreek-OT1-_Upgamma"
+    },
+    {
+      "index": 495,
+      "symbol": "wasysym-OT1-_scorpio"
+    },
+    {
+      "index": 496,
+      "symbol": "amssymb-OT1-_circledast"
+    },
+    {
+      "index": 497,
+      "symbol": "latex2e-OT1-_oslash"
+    },
+    {
+      "index": 498,
+      "symbol": "amssymb-OT1-_smallsmile"
+    },
+    {
+      "index": 499,
+      "symbol": "latex2e-OT1-_cdots"
+    },
+    {
+      "index": 500,
+      "symbol": "textcomp-OT1-_textasteriskcentered"
+    },
+    {
+      "index": 501,
+      "symbol": "amssymb-OT1-_curlyvee"
+    },
+    {
+      "index": 502,
+      "symbol": "textcomp-OT1-_textperthousand"
+    },
+    {
+      "index": 503,
+      "symbol": "latex2e-OT1-_textbraceright"
+    },
+    {
+      "index": 504,
+      "symbol": "wasysym-OT1-_currency"
+    },
+    {
+      "index": 505,
+      "symbol": "amssymb-OT1-_nvdash"
+    },
+    {
+      "index": 506,
+      "symbol": "mathrsfs-OT1-_mathscr{T}"
+    },
+    {
+      "index": 507,
+      "symbol": "latex2e-OT1-_wr"
+    },
+    {
+      "index": 508,
+      "symbol": "latex2e-OT1-_dots"
+    },
+    {
+      "index": 509,
+      "symbol": "tipa-OT1-_textepsilon"
+    },
+    {
+      "index": 510,
+      "symbol": "textcomp-OT1-_textinterrobang"
+    },
+    {
+      "index": 511,
+      "symbol": "amssymb-OT1-_dashleftarrow"
+    },
+    {
+      "index": 512,
+      "symbol": "latex2e-OT1-_---"
+    },
+    {
+      "index": 513,
+      "symbol": "latex2e-OT1-_triangleright"
+    },
+    {
+      "index": 514,
+      "symbol": "latex2e-T1-_quotesinglbase"
+    },
+    {
+      "index": 515,
+      "symbol": "latex2e-OT1-_nwarrow"
+    },
+    {
+      "index": 516,
+      "symbol": "mathrsfs-OT1-_mathscr{N}"
+    },
+    {
+      "index": 517,
+      "symbol": "wasysym-OT1-_venus"
+    },
+    {
+      "index": 518,
+      "symbol": "latex2e-OT1-_div"
+    },
+    {
+      "index": 519,
+      "symbol": "textcomp-OT1-_textdownarrow"
+    },
+    {
+      "index": 520,
+      "symbol": "latex2e-OT1-_textdagger"
+    },
+    {
+      "index": 521,
+      "symbol": "upgreek-OT1-_uplambda"
+    },
+    {
+      "index": 522,
+      "symbol": "amssymb-OT1-_mathcal{T}"
+    },
+    {
+      "index": 523,
+      "symbol": "amssymb-OT1-_nvDash"
+    },
+    {
+      "index": 524,
+      "symbol": "latex2e-OT1-_hookleftarrow"
+    },
+    {
+      "index": 525,
+      "symbol": "tipa-OT1-_textsecstress"
+    },
+    {
+      "index": 526,
+      "symbol": "tipa-OT1-_textopencorner"
+    },
+    {
+      "index": 527,
+      "symbol": "latex2e-OT1-_bigsqcup"
+    },
+    {
+      "index": 528,
+      "symbol": "wasysym-OT1-_taurus"
+    },
+    {
+      "index": 529,
+      "symbol": "amssymb-OT1-_nRightarrow"
+    },
+    {
+      "index": 530,
+      "symbol": "tipa-OT1-_textphi"
+    },
+    {
+      "index": 531,
+      "symbol": "tipa-OT1-_textrevepsilon"
+    },
+    {
+      "index": 532,
+      "symbol": "mathdots-OT1-_iddots"
+    },
+    {
+      "index": 533,
+      "symbol": "latex2e-OT1-_textbar"
+    },
+    {
+      "index": 534,
+      "symbol": "upgreek-OT1-_Upxi"
+    },
+    {
+      "index": 535,
+      "symbol": "tipa-OT1-_textbaru"
+    },
+    {
+      "index": 536,
+      "symbol": "marvosym-OT1-_Shilling"
+    },
+    {
+      "index": 537,
+      "symbol": "latex2e-OT1-_textvisiblespace"
+    },
+    {
+      "index": 538,
+      "symbol": "dsfont-OT1-_mathds{K}"
+    },
+    {
+      "index": 539,
+      "symbol": "amssymb-OT1-_vartriangleleft"
+    },
+    {
+      "index": 540,
+      "symbol": "amssymb-OT1-_multimap"
+    },
+    {
+      "index": 541,
+      "symbol": "esint-OT1-_fint"
+    },
+    {
+      "index": 542,
+      "symbol": "amssymb-OT1-_mathcal{J}"
+    },
+    {
+      "index": 543,
+      "symbol": "amssymb-OT1-_pitchfork"
+    },
+    {
+      "index": 544,
+      "symbol": "latex2e-OT1-_pounds"
+    },
+    {
+      "index": 545,
+      "symbol": "stmaryrd-OT1-_shortdownarrow"
+    },
+    {
+      "index": 546,
+      "symbol": "marvosym-OT1-_EURdig"
+    },
+    {
+      "index": 547,
+      "symbol": "latex2e-OT1-_textquestiondown"
+    },
+    {
+      "index": 548,
+      "symbol": "marvosym-OT1-_Gemini"
+    },
+    {
+      "index": 549,
+      "symbol": "textcomp-OT1-_textflorin"
+    },
+    {
+      "index": 550,
+      "symbol": "textcomp-OT1-_textonequarter"
+    },
+    {
+      "index": 551,
+      "symbol": "tipa-OT1-_textramshorns"
+    },
+    {
+      "index": 552,
+      "symbol": "upgreek-OT1-_upsigma"
+    },
+    {
+      "index": 553,
+      "symbol": "textcomp-OT1-_textdollar"
+    },
+    {
+      "index": 554,
+      "symbol": "latex2e-OT1-_mathsection"
+    },
+    {
+      "index": 555,
+      "symbol": "mathrsfs-OT1-_mathscr{X}"
+    },
+    {
+      "index": 556,
+      "symbol": "tipa-OT1-_textcorner"
+    },
+    {
+      "index": 557,
+      "symbol": "esint-OT1-_oiint"
+    },
+    {
+      "index": 558,
+      "symbol": "latex2e-OT1-_surd"
+    },
+    {
+      "index": 559,
+      "symbol": "amssymb-OT1-_Bumpeq"
+    },
+    {
+      "index": 560,
+      "symbol": "amssymb-OT1-_rightrightarrows"
+    },
+    {
+      "index": 561,
+      "symbol": "mathrsfs-OT1-_mathscr{J}"
+    },
+    {
+      "index": 562,
+      "symbol": "amssymb-OT1-_geqq"
+    },
+    {
+      "index": 563,
+      "symbol": "dsfont-OT1-_mathds{A}"
+    },
+    {
+      "index": 564,
+      "symbol": "textcomp-OT1-_textcircledP"
+    },
+    {
+      "index": 565,
+      "symbol": "latex2e-OT1-_doteq"
+    },
+    {
+      "index": 566,
+      "symbol": "latex2e-OT1-_star"
+    },
+    {
+      "index": 567,
+      "symbol": "wasysym-OT1-_earth"
+    },
+    {
+      "index": 568,
+      "symbol": "wasysym-OT1-_male"
+    },
+    {
+      "index": 569,
+      "symbol": "latex2e-OT1-_biguplus"
+    },
+    {
+      "index": 570,
+      "symbol": "textcomp-OT1-_textlira"
+    },
+    {
+      "index": 571,
+      "symbol": "amssymb-OT1-_nshortmid"
+    },
+    {
+      "index": 572,
+      "symbol": "marvosym-OT1-_Lightning"
+    },
+    {
+      "index": 573,
+      "symbol": "latex2e-OT1-_flat"
+    },
+    {
+      "index": 574,
+      "symbol": "latex2e-OT1-_Longleftrightarrow"
+    },
+    {
+      "index": 575,
+      "symbol": "amssymb-OT1-_doublebarwedge"
+    },
+    {
+      "index": 576,
+      "symbol": "amssymb-OT1-_mathcal{X}"
+    },
+    {
+      "index": 577,
+      "symbol": "latex2e-OT1-_clubsuit"
+    },
+    {
+      "index": 578,
+      "symbol": "upgreek-OT1-_upzeta"
+    },
+    {
+      "index": 579,
+      "symbol": "textcomp-OT1-_texttrademark"
+    },
+    {
+      "index": 580,
+      "symbol": "amssymb-OT1-_sphericalangle"
+    },
+    {
+      "index": 581,
+      "symbol": "mathrsfs-OT1-_mathscr{O}"
+    },
+    {
+      "index": 582,
+      "symbol": "latex2e-OT1-_bigtriangledown"
+    },
+    {
+      "index": 583,
+      "symbol": "marvosym-OT1-_Denarius"
+    },
+    {
+      "index": 584,
+      "symbol": "tipa-OT1-_texthtbardotlessj"
+    },
+    {
+      "index": 585,
+      "symbol": "amssymb-OT1-_mathcal{C}"
+    },
+    {
+      "index": 586,
+      "symbol": "marvosym-OT1-_Aries"
+    },
+    {
+      "index": 587,
+      "symbol": "amssymb-OT1-_leftrightharpoons"
+    },
+    {
+      "index": 588,
+      "symbol": "tipa-OT1-_textrtaill"
+    },
+    {
+      "index": 589,
+      "symbol": "latex2e-OT1-_imath"
+    },
+    {
+      "index": 590,
+      "symbol": "latex2e-OT1-_asymp"
+    },
+    {
+      "index": 591,
+      "symbol": "textcomp-OT1-_textperiodcentered"
+    },
+    {
+      "index": 592,
+      "symbol": "latex2e-T1-_dj"
+    },
+    {
+      "index": 593,
+      "symbol": "amssymb-OT1-_rightleftarrows"
+    },
+    {
+      "index": 594,
+      "symbol": "latex2e-OT1-_mathdollar"
+    },
+    {
+      "index": 595,
+      "symbol": "amssymb-OT1-_mathfrak{B}"
+    },
+    {
+      "index": 596,
+      "symbol": "upgreek-OT1-_Upphi"
+    },
+    {
+      "index": 597,
+      "symbol": "amssymb-OT1-_rightleftharpoons"
+    },
+    {
+      "index": 598,
+      "symbol": "wasysym-OT1-_lhd"
+    },
+    {
+      "index": 599,
+      "symbol": "amssymb-OT1-_nleftrightarrow"
+    },
+    {
+      "index": 600,
+      "symbol": "tipa-OT1-_textrevglotstop"
+    },
+    {
+      "index": 601,
+      "symbol": "wasysym-OT1-_blacksmiley"
+    },
+    {
+      "index": 602,
+      "symbol": "textcomp-OT1-_textpertenthousand"
+    },
+    {
+      "index": 603,
+      "symbol": "textcomp-OT1-_textregistered"
+    },
+    {
+      "index": 604,
+      "symbol": "wasysym-OT1-_clock"
+    },
+    {
+      "index": 605,
+      "symbol": "textcomp-OT1-_textleftarrow"
+    },
+    {
+      "index": 606,
+      "symbol": "amssymb-OT1-_trianglelefteq"
+    },
+    {
+      "index": 607,
+      "symbol": "marvosym-OT1-_Telefon"
+    },
+    {
+      "index": 608,
+      "symbol": "latex2e-OT1-_rfloor"
+    },
+    {
+      "index": 609,
+      "symbol": "wasysym-OT1-_conjunction"
+    },
+    {
+      "index": 610,
+      "symbol": "amssymb-OT1-_maltese"
+    },
+    {
+      "index": 611,
+      "symbol": "amssymb-OT1-_Game"
+    },
+    {
+      "index": 612,
+      "symbol": "textcomp-OT1-_textrbrackdbl"
+    },
+    {
+      "index": 613,
+      "symbol": "amssymb-OT1-_nprec"
+    },
+    {
+      "index": 614,
+      "symbol": "upgreek-OT1-_upvarrho"
+    },
+    {
+      "index": 615,
+      "symbol": "esint-OT1-_varointctrclockwise"
+    },
+    {
+      "index": 616,
+      "symbol": "amssymb-OT1-_circlearrowleft"
+    },
+    {
+      "index": 617,
+      "symbol": "amssymb-OT1-_circlearrowright"
+    },
+    {
+      "index": 618,
+      "symbol": "latex2e-OT1-_updownarrow"
+    },
+    {
+      "index": 619,
+      "symbol": "upgreek-OT1-_Uptheta"
+    },
+    {
+      "index": 620,
+      "symbol": "dsfont-OT1-_mathds{V}"
+    },
+    {
+      "index": 621,
+      "symbol": "amssymb-OT1-_vartriangle"
+    },
+    {
+      "index": 622,
+      "symbol": "marvosym-OT1-_Sun"
+    },
+    {
+      "index": 623,
+      "symbol": "amssymb-OT1-_lozenge"
+    },
+    {
+      "index": 624,
+      "symbol": "textcomp-OT1-_textlnot"
+    },
+    {
+      "index": 625,
+      "symbol": "amssymb-OT1-_nless"
+    },
+    {
+      "index": 626,
+      "symbol": "latex2e-OT1-_Re"
+    },
+    {
+      "index": 627,
+      "symbol": "esint-OT1-_dotsint"
+    },
+    {
+      "index": 628,
+      "symbol": "wasysym-OT1-_aquarius"
+    },
+    {
+      "index": 629,
+      "symbol": "amssymb-OT1-_angle"
+    },
+    {
+      "index": 630,
+      "symbol": "upgreek-OT1-_upvarsigma"
+    },
+    {
+      "index": 631,
+      "symbol": "tipa-OT1-_textsoftsign"
+    },
+    {
+      "index": 632,
+      "symbol": "tipa-OT1-_textinvscr"
+    },
+    {
+      "index": 633,
+      "symbol": "tipa-OT1-_textdownstep"
+    },
+    {
+      "index": 634,
+      "symbol": "latex2e-OT1-_coprod"
+    },
+    {
+      "index": 635,
+      "symbol": "textcomp-OT1-_textminus"
+    },
+    {
+      "index": 636,
+      "symbol": "wasysym-OT1-_cent"
+    },
+    {
+      "index": 637,
+      "symbol": "latex2e-OT1-_textbullet"
+    },
+    {
+      "index": 638,
+      "symbol": "wasysym-OT1-_pointer"
+    },
+    {
+      "index": 639,
+      "symbol": "amssymb-OT1-_veebar"
+    },
+    {
+      "index": 640,
+      "symbol": "textcomp-OT1-_textpeso"
+    },
+    {
+      "index": 641,
+      "symbol": "textcomp-OT1-_textdagger"
+    },
+    {
+      "index": 642,
+      "symbol": "wasysym-OT1-_permil"
+    },
+    {
+      "index": 643,
+      "symbol": "tipa-OT1-_textbeta"
+    },
+    {
+      "index": 644,
+      "symbol": "textcomp-OT1-_textonesuperior"
+    },
+    {
+      "index": 645,
+      "symbol": "tipa-OT1-_textceltpal"
+    },
+    {
+      "index": 646,
+      "symbol": "tipa-OT1-_textscb"
+    },
+    {
+      "index": 647,
+      "symbol": "dsfont-OT1-_mathds{D}"
+    },
+    {
+      "index": 648,
+      "symbol": "tipa-OT1-_textdoublevertline"
+    },
+    {
+      "index": 649,
+      "symbol": "amssymb-OT1-_blacklozenge"
+    },
+    {
+      "index": 650,
+      "symbol": "tipa-OT1-_textsci"
+    },
+    {
+      "index": 651,
+      "symbol": "stmaryrd-OT1-_Rbag"
+    },
+    {
+      "index": 652,
+      "symbol": "textcomp-OT1-_textparagraph"
+    },
+    {
+      "index": 653,
+      "symbol": "amssymb-OT1-_ngtr"
+    },
+    {
+      "index": 654,
+      "symbol": "textcomp-OT1-_textbardbl"
+    },
+    {
+      "index": 655,
+      "symbol": "amssymb-OT1-_succcurlyeq"
+    },
+    {
+      "index": 656,
+      "symbol": "amssymb-OT1-_leftrightsquigarrow"
+    },
+    {
+      "index": 657,
+      "symbol": "marvosym-OT1-_FAX"
+    },
+    {
+      "index": 658,
+      "symbol": "wasysym-OT1-_Bowtie"
+    },
+    {
+      "index": 659,
+      "symbol": "amssymb-OT1-_succsim"
+    },
+    {
+      "index": 660,
+      "symbol": "amssymb-OT1-_subseteqq"
+    },
+    {
+      "index": 661,
+      "symbol": "amssymb-OT1-_mathcal{Q}"
+    },
+    {
+      "index": 662,
+      "symbol": "wasysym-OT1-_capricornus"
+    },
+    {
+      "index": 663,
+      "symbol": "amssymb-OT1-_diagup"
+    },
+    {
+      "index": 664,
+      "symbol": "dsfont-OT1-_mathds{M}"
+    },
+    {
+      "index": 665,
+      "symbol": "wasysym-OT1-_unrhd"
+    },
+    {
+      "index": 666,
+      "symbol": "amssymb-OT1-_shortparallel"
+    },
+    {
+      "index": 667,
+      "symbol": "textcomp-OT1-_textthreesuperior"
+    },
+    {
+      "index": 668,
+      "symbol": "amssymb-OT1-_rightthreetimes"
+    },
+    {
+      "index": 669,
+      "symbol": "mathrsfs-OT1-_mathscr{F}"
+    },
+    {
+      "index": 670,
+      "symbol": "latex2e-OT1-_leftharpoonup"
+    },
+    {
+      "index": 671,
+      "symbol": "tipa-OT1-_textdoublebarpipe"
+    },
+    {
+      "index": 672,
+      "symbol": "tipa-OT1-_textupsilon"
+    },
+    {
+      "index": 673,
+      "symbol": "upgreek-OT1-_upomega"
+    },
+    {
+      "index": 674,
+      "symbol": "latex2e-OT1-_ldots"
+    },
+    {
+      "index": 675,
+      "symbol": "latex2e-T1-_guillemotleft"
+    },
+    {
+      "index": 676,
+      "symbol": "amssymb-OT1-_curvearrowleft"
+    },
+    {
+      "index": 677,
+      "symbol": "amssymb-OT1-_ggg"
+    },
+    {
+      "index": 678,
+      "symbol": "latex2e-OT1-_Leftarrow"
+    },
+    {
+      "index": 679,
+      "symbol": "amssymb-OT1-_blacktriangle"
+    },
+    {
+      "index": 680,
+      "symbol": "tipa-OT1-_textcrd"
+    },
+    {
+      "index": 681,
+      "symbol": "amssymb-OT1-_sqsupset"
+    },
+    {
+      "index": 682,
+      "symbol": "latex2e-OT1-_textordmasculine"
+    },
+    {
+      "index": 683,
+      "symbol": "amssymb-OT1-_mathfrak{N}"
+    },
+    {
+      "index": 684,
+      "symbol": "upgreek-OT1-_uppsi"
+    },
+    {
+      "index": 685,
+      "symbol": "tipa-OT1-_textrtailz"
+    },
+    {
+      "index": 686,
+      "symbol": "amssymb-OT1-_looparrowright"
+    },
+    {
+      "index": 687,
+      "symbol": "amssymb-OT1-_rightarrowtail"
+    },
+    {
+      "index": 688,
+      "symbol": "tipa-OT1-_textturnv"
+    },
+    {
+      "index": 689,
+      "symbol": "upgreek-OT1-_Upupsilon"
+    },
+    {
+      "index": 690,
+      "symbol": "amssymb-OT1-_nsim"
+    },
+    {
+      "index": 691,
+      "symbol": "tipa-OT1-_textsce"
+    },
+    {
+      "index": 692,
+      "symbol": "latex2e-OT1-_ldotp"
+    },
+    {
+      "index": 693,
+      "symbol": "amssymb-OT1-_circleddash"
+    },
+    {
+      "index": 694,
+      "symbol": "marvosym-OT1-_EURtm"
+    },
+    {
+      "index": 695,
+      "symbol": "amssymb-OT1-_supsetneq"
+    },
+    {
+      "index": 696,
+      "symbol": "latex2e-OT1-_not_sim"
+    },
+    {
+      "index": 697,
+      "symbol": "textcomp-OT1-_texttwelveudash"
+    },
+    {
+      "index": 698,
+      "symbol": "wasysym-OT1-_kreuz"
+    },
+    {
+      "index": 699,
+      "symbol": "latex2e-T1-_DH"
+    },
+    {
+      "index": 700,
+      "symbol": "upgreek-OT1-_upepsilon"
+    },
+    {
+      "index": 701,
+      "symbol": "marvosym-OT1-_Venus"
+    },
+    {
+      "index": 702,
+      "symbol": "amssymb-OT1-_complement"
+    },
+    {
+      "index": 703,
+      "symbol": "tipa-OT1-_textctyogh"
+    },
+    {
+      "index": 704,
+      "symbol": "amssymb-OT1-_mathcal{W}"
+    },
+    {
+      "index": 705,
+      "symbol": "textcomp-OT1-_textthreequarters"
+    },
+    {
+      "index": 706,
+      "symbol": "wasysym-OT1-_leo"
+    },
+    {
+      "index": 707,
+      "symbol": "textcomp-OT1-_textuparrow"
+    },
+    {
+      "index": 708,
+      "symbol": "amssymb-OT1-_leqq"
+    },
+    {
+      "index": 709,
+      "symbol": "tipa-OT1-_textltailm"
+    },
+    {
+      "index": 710,
+      "symbol": "esint-OT1-_sqint"
+    },
+    {
+      "index": 711,
+      "symbol": "marvosym-OT1-_Mercury"
+    },
+    {
+      "index": 712,
+      "symbol": "amssymb-OT1-_circledS"
+    },
+    {
+      "index": 713,
+      "symbol": "tipa-OT1-_textturna"
+    },
+    {
+      "index": 714,
+      "symbol": "marvosym-OT1-_Mars"
+    },
+    {
+      "index": 715,
+      "symbol": "textcomp-OT1-_textnaira"
+    },
+    {
+      "index": 716,
+      "symbol": "tipa-OT1-_textcrh"
+    },
+    {
+      "index": 717,
+      "symbol": "stmaryrd-OT1-_llceil"
+    },
+    {
+      "index": 718,
+      "symbol": "marvosym-OT1-_Jupiter"
+    },
+    {
+      "index": 719,
+      "symbol": "dsfont-OT1-_mathds{H}"
+    },
+    {
+      "index": 720,
+      "symbol": "latex2e-OT1-_longmapsto"
+    },
+    {
+      "index": 721,
+      "symbol": "amssymb-OT1-_ngeq"
+    },
+    {
+      "index": 722,
+      "symbol": "latex2e-T1-_TH"
+    },
+    {
+      "index": 723,
+      "symbol": "latex2e-OT1-_textquoteleft"
+    },
+    {
+      "index": 724,
+      "symbol": "latex2e-OT1-_textquoteright"
+    },
+    {
+      "index": 725,
+      "symbol": "tipa-OT1-_textcrtwo"
+    },
+    {
+      "index": 726,
+      "symbol": "esint-OT1-_ointclockwise"
+    },
+    {
+      "index": 727,
+      "symbol": "upgreek-OT1-_upupsilon"
+    },
+    {
+      "index": 728,
+      "symbol": "amssymb-OT1-_curlywedge"
+    },
+    {
+      "index": 729,
+      "symbol": "marvosym-OT1-_EyesDollar"
+    },
+    {
+      "index": 730,
+      "symbol": "textcomp-OT1-_textcentoldstyle"
+    },
+    {
+      "index": 731,
+      "symbol": "upgreek-OT1-_updelta"
+    },
+    {
+      "index": 732,
+      "symbol": "amssymb-OT1-_Cap"
+    },
+    {
+      "index": 733,
+      "symbol": "mathrsfs-OT1-_mathscr{U}"
+    },
+    {
+      "index": 734,
+      "symbol": "amsmath-OT1-_dotsc"
+    },
+    {
+      "index": 735,
+      "symbol": "stmaryrd-OT1-_llparenthesis"
+    },
+    {
+      "index": 736,
+      "symbol": "latex2e-OT1-_rceil"
+    },
+    {
+      "index": 737,
+      "symbol": "amssymb-OT1-_backepsilon"
+    },
+    {
+      "index": 738,
+      "symbol": "tipa-OT1-_textrhoticity"
+    },
+    {
+      "index": 739,
+      "symbol": "tipa-OT1-_textbari"
+    },
+    {
+      "index": 740,
+      "symbol": "amssymb-OT1-_lesseqgtr"
+    },
+    {
+      "index": 741,
+      "symbol": "tipa-OT1-_textscj"
+    },
+    {
+      "index": 742,
+      "symbol": "tipa-OT1-_textrtailn"
+    },
+    {
+      "index": 743,
+      "symbol": "tipa-OT1-_texthalflength"
+    },
+    {
+      "index": 744,
+      "symbol": "textcomp-OT1-_textinterrobangdown"
+    },
+    {
+      "index": 745,
+      "symbol": "latex2e-OT1-_OE"
+    },
+    {
+      "index": 746,
+      "symbol": "amssymb-OT1-_eqcirc"
+    },
+    {
+      "index": 747,
+      "symbol": "marvosym-OT1-_Aquarius"
+    },
+    {
+      "index": 748,
+      "symbol": "latex2e-OT1-_leftharpoondown"
+    },
+    {
+      "index": 749,
+      "symbol": "tipa-OT1-_textscl"
+    },
+    {
+      "index": 750,
+      "symbol": "tipa-OT1-_textvertline"
+    },
+    {
+      "index": 751,
+      "symbol": "amssymb-OT1-_boxminus"
+    },
+    {
+      "index": 752,
+      "symbol": "mathrsfs-OT1-_mathscr{Q}"
+    },
+    {
+      "index": 753,
+      "symbol": "upgreek-OT1-_upiota"
+    },
+    {
+      "index": 754,
+      "symbol": "stmaryrd-OT1-_Mapsto"
+    },
+    {
+      "index": 755,
+      "symbol": "mathrsfs-OT1-_mathscr{K}"
+    },
+    {
+      "index": 756,
+      "symbol": "amsmath-OT1-_dotsi"
+    },
+    {
+      "index": 757,
+      "symbol": "mathrsfs-OT1-_mathscr{R}"
+    },
+    {
+      "index": 758,
+      "symbol": "amssymb-OT1-_circledR"
+    },
+    {
+      "index": 759,
+      "symbol": "stmaryrd-OT1-_leftrightarroweq"
+    },
+    {
+      "index": 760,
+      "symbol": "amssymb-OT1-_nsupseteq"
+    },
+    {
+      "index": 761,
+      "symbol": "latex2e-OT1-_cdotp"
+    },
+    {
+      "index": 762,
+      "symbol": "wasysym-OT1-_invdiameter"
+    },
+    {
+      "index": 763,
+      "symbol": "amssymb-OT1-_looparrowleft"
+    },
+    {
+      "index": 764,
+      "symbol": "latex2e-OT1-_ddag"
+    },
+    {
+      "index": 765,
+      "symbol": "stmaryrd-OT1-_shortuparrow"
+    },
+    {
+      "index": 766,
+      "symbol": "amssymb-OT1-_Rsh"
+    },
+    {
+      "index": 767,
+      "symbol": "tipa-OT1-_textsch"
+    },
+    {
+      "index": 768,
+      "symbol": "latex2e-OT1-_mathparagraph"
+    },
+    {
+      "index": 769,
+      "symbol": "wasysym-OT1-_saturn"
+    },
+    {
+      "index": 770,
+      "symbol": "latex2e-T1-_guilsinglleft"
+    },
+    {
+      "index": 771,
+      "symbol": "amssymb-OT1-_between"
+    },
+    {
+      "index": 772,
+      "symbol": "tipa-OT1-_textdoublebaresh"
+    },
+    {
+      "index": 773,
+      "symbol": "latex2e-OT1-_textquotedblright"
+    },
+    {
+      "index": 774,
+      "symbol": "tipa-OT1-_textturnscripta"
+    },
+    {
+      "index": 775,
+      "symbol": "amssymb-OT1-_lll"
+    },
+    {
+      "index": 776,
+      "symbol": "amssymb-OT1-_gneq"
+    },
+    {
+      "index": 777,
+      "symbol": "marvosym-OT1-_Emailct"
+    },
+    {
+      "index": 778,
+      "symbol": "tipa-OT1-_textglobrise"
+    },
+    {
+      "index": 779,
+      "symbol": "dsfont-OT1-_mathds{I}"
+    },
+    {
+      "index": 780,
+      "symbol": "textcomp-OT1-_textbaht"
+    },
+    {
+      "index": 781,
+      "symbol": "tipa-OT1-_textrhookschwa"
+    },
+    {
+      "index": 782,
+      "symbol": "dsfont-OT1-_mathds{U}"
+    },
+    {
+      "index": 783,
+      "symbol": "amssymb-OT1-_upharpoonleft"
+    },
+    {
+      "index": 784,
+      "symbol": "wasysym-OT1-_leftmoon"
+    },
+    {
+      "index": 785,
+      "symbol": "amssymb-OT1-_lessdot"
+    },
+    {
+      "index": 786,
+      "symbol": "tipa-OT1-_textscriptg"
+    },
+    {
+      "index": 787,
+      "symbol": "amssymb-OT1-_centerdot"
+    },
+    {
+      "index": 788,
+      "symbol": "marvosym-OT1-_Scorpio"
+    },
+    {
+      "index": 789,
+      "symbol": "marvosym-OT1-_EURcr"
+    },
+    {
+      "index": 790,
+      "symbol": "mathrsfs-OT1-_mathscr{V}"
+    },
+    {
+      "index": 791,
+      "symbol": "wasysym-OT1-_sagittarius"
+    },
+    {
+      "index": 792,
+      "symbol": "amssymb-OT1-_trianglerighteq"
+    },
+    {
+      "index": 793,
+      "symbol": "upgreek-OT1-_upvartheta"
+    },
+    {
+      "index": 794,
+      "symbol": "amssymb-OT1-_leftleftarrows"
+    },
+    {
+      "index": 795,
+      "symbol": "marvosym-OT1-_Capricorn"
+    },
+    {
+      "index": 796,
+      "symbol": "marvosym-OT1-_Pfund"
+    },
+    {
+      "index": 797,
+      "symbol": "dsfont-OT1-_mathds{F}"
+    },
+    {
+      "index": 798,
+      "symbol": "latex2e-OT1-_Updownarrow"
+    },
+    {
+      "index": 799,
+      "symbol": "amssymb-OT1-_blacktriangledown"
+    },
+    {
+      "index": 800,
+      "symbol": "marvosym-OT1-_Saturn"
+    },
+    {
+      "index": 801,
+      "symbol": "marvosym-OT1-_MVRightarrow"
+    },
+    {
+      "index": 802,
+      "symbol": "amssymb-OT1-_backsimeq"
+    },
+    {
+      "index": 803,
+      "symbol": "amssymb-OT1-_mathfrak{J}"
+    },
+    {
+      "index": 804,
+      "symbol": "tipa-OT1-_textscu"
+    },
+    {
+      "index": 805,
+      "symbol": "textcomp-OT1-_textbullet"
+    },
+    {
+      "index": 806,
+      "symbol": "latex2e-OT1-_longleftarrow"
+    },
+    {
+      "index": 807,
+      "symbol": "amssymb-OT1-_eth"
+    },
+    {
+      "index": 808,
+      "symbol": "dsfont-OT1-_mathds{L}"
+    },
+    {
+      "index": 809,
+      "symbol": "upgreek-OT1-_upkappa"
+    },
+    {
+      "index": 810,
+      "symbol": "amssymb-OT1-_nLeftarrow"
+    },
+    {
+      "index": 811,
+      "symbol": "stmaryrd-OT1-_shortleftarrow"
+    },
+    {
+      "index": 812,
+      "symbol": "amssymb-OT1-_mathfrak{Y}"
+    },
+    {
+      "index": 813,
+      "symbol": "tipa-OT1-_textdoublepipe"
+    },
+    {
+      "index": 814,
+      "symbol": "dsfont-OT1-_mathds{O}"
+    },
+    {
+      "index": 815,
+      "symbol": "tipa-OT1-_textscy"
+    },
+    {
+      "index": 816,
+      "symbol": "amssymb-OT1-_gtrapprox"
+    },
+    {
+      "index": 817,
+      "symbol": "latex2e-OT1-_textellipsis"
+    },
+    {
+      "index": 818,
+      "symbol": "textcomp-OT1-_textlquill"
+    },
+    {
+      "index": 819,
+      "symbol": "amssymb-OT1-_Bbbk"
+    },
+    {
+      "index": 820,
+      "symbol": "amssymb-OT1-_nleqslant"
+    },
+    {
+      "index": 821,
+      "symbol": "marvosym-OT1-_Leo"
+    },
+    {
+      "index": 822,
+      "symbol": "latex2e-OT1-_SS"
+    },
+    {
+      "index": 823,
+      "symbol": "tipa-OT1-_textrptr"
+    },
+    {
+      "index": 824,
+      "symbol": "tipa-OT1-_textpalhook"
+    },
+    {
+      "index": 825,
+      "symbol": "textcomp-OT1-_textordmasculine"
+    },
+    {
+      "index": 826,
+      "symbol": "wasysym-OT1-_RHD"
+    },
+    {
+      "index": 827,
+      "symbol": "tipa-OT1-_textltailn"
+    },
+    {
+      "index": 828,
+      "symbol": "amssymb-OT1-_mathfrak{I}"
+    },
+    {
+      "index": 829,
+      "symbol": "tipa-OT1-_textlptr"
+    },
+    {
+      "index": 830,
+      "symbol": "amssymb-OT1-_backprime"
+    },
+    {
+      "index": 831,
+      "symbol": "amssymb-OT1-_twoheadleftarrow"
+    },
+    {
+      "index": 832,
+      "symbol": "tipa-OT1-_textdzlig"
+    },
+    {
+      "index": 833,
+      "symbol": "amssymb-OT1-_gtrdot"
+    },
+    {
+      "index": 834,
+      "symbol": "stmaryrd-OT1-_longmapsfrom"
+    },
+    {
+      "index": 835,
+      "symbol": "tipa-OT1-_textopeno"
+    },
+    {
+      "index": 836,
+      "symbol": "dsfont-OT1-_mathds{G}"
+    },
+    {
+      "index": 837,
+      "symbol": "amssymb-OT1-_mathfrak{W}"
+    },
+    {
+      "index": 838,
+      "symbol": "tipa-OT1-_textreve"
+    },
+    {
+      "index": 839,
+      "symbol": "marvosym-OT1-_Pisces"
+    },
+    {
+      "index": 840,
+      "symbol": "latex2e-T1-_guilsinglright"
+    },
+    {
+      "index": 841,
+      "symbol": "amssymb-OT1-_precsim"
+    },
+    {
+      "index": 842,
+      "symbol": "marvosym-OT1-_Uranus"
+    },
+    {
+      "index": 843,
+      "symbol": "textcomp-OT1-_textsterling"
+    },
+    {
+      "index": 844,
+      "symbol": "amssymb-OT1-_bumpeq"
+    },
+    {
+      "index": 845,
+      "symbol": "amssymb-OT1-_digamma"
+    },
+    {
+      "index": 846,
+      "symbol": "wasysym-OT1-_virgo"
+    },
+    {
+      "index": 847,
+      "symbol": "wasysym-OT1-_vernal"
+    },
+    {
+      "index": 848,
+      "symbol": "tipa-OT1-_textprimstress"
+    },
+    {
+      "index": 849,
+      "symbol": "marvosym-OT1-_Email"
+    },
+    {
+      "index": 850,
+      "symbol": "tipa-OT1-_textrtailr"
+    },
+    {
+      "index": 851,
+      "symbol": "latex2e-T1-_th"
+    },
+    {
+      "index": 852,
+      "symbol": "amssymb-OT1-_mathcal{Y}"
+    },
+    {
+      "index": 853,
+      "symbol": "amssymb-OT1-_nparallel"
+    },
+    {
+      "index": 854,
+      "symbol": "amssymb-OT1-_varsupsetneq"
+    },
+    {
+      "index": 855,
+      "symbol": "latex2e-T1-_guillemotright"
+    },
+    {
+      "index": 856,
+      "symbol": "upgreek-OT1-_upvarpi"
+    },
+    {
+      "index": 857,
+      "symbol": "wasysym-OT1-_descnode"
+    },
+    {
+      "index": 858,
+      "symbol": "tipa-OT1-_textglotstop"
+    },
+    {
+      "index": 859,
+      "symbol": "dsfont-OT1-_mathds{B}"
+    },
+    {
+      "index": 860,
+      "symbol": "amssymb-OT1-_Cup"
+    },
+    {
+      "index": 861,
+      "symbol": "amssymb-OT1-_Rrightarrow"
+    },
+    {
+      "index": 862,
+      "symbol": "amssymb-OT1-_lessgtr"
+    },
+    {
+      "index": 863,
+      "symbol": "amssymb-OT1-_smallfrown"
+    },
+    {
+      "index": 864,
+      "symbol": "latex2e-OT1-_mathsterling"
+    },
+    {
+      "index": 865,
+      "symbol": "tipa-OT1-_textthorn"
+    },
+    {
+      "index": 866,
+      "symbol": "wasysym-OT1-_brokenvert"
+    },
+    {
+      "index": 867,
+      "symbol": "tipa-OT1-_textscn"
+    },
+    {
+      "index": 868,
+      "symbol": "tipa-OT1-_textwynn"
+    },
+    {
+      "index": 869,
+      "symbol": "amssymb-OT1-_hslash"
+    },
+    {
+      "index": 870,
+      "symbol": "tipa-OT1-_textlonglegr"
+    },
+    {
+      "index": 871,
+      "symbol": "amssymb-OT1-_mathfrak{D}"
+    },
+    {
+      "index": 872,
+      "symbol": "textcomp-OT1-_textbrokenbar"
+    },
+    {
+      "index": 873,
+      "symbol": "tipa-OT1-_textOlyoghlig"
+    },
+    {
+      "index": 874,
+      "symbol": "amssymb-OT1-_nleftarrow"
+    },
+    {
+      "index": 875,
+      "symbol": "latex2e-OT1-_natural"
+    },
+    {
+      "index": 876,
+      "symbol": "textcomp-OT1-_textordfeminine"
+    },
+    {
+      "index": 877,
+      "symbol": "amssymb-OT1-_Vvdash"
+    },
+    {
+      "index": 878,
+      "symbol": "amssymb-OT1-_gnapprox"
+    },
+    {
+      "index": 879,
+      "symbol": "latex2e-T1-_NG"
+    },
+    {
+      "index": 880,
+      "symbol": "tipa-OT1-_textctc"
+    },
+    {
+      "index": 881,
+      "symbol": "latex2e-OT1-_textdaggerdbl"
+    },
+    {
+      "index": 882,
+      "symbol": "textcomp-OT1-_textwon"
+    },
+    {
+      "index": 883,
+      "symbol": "tipa-OT1-_textcloseomega"
+    },
+    {
+      "index": 884,
+      "symbol": "esint-OT1-_varointclockwise"
+    },
+    {
+      "index": 885,
+      "symbol": "amssymb-OT1-_leftthreetimes"
+    },
+    {
+      "index": 886,
+      "symbol": "amssymb-OT1-_mathfrak{Q}"
+    },
+    {
+      "index": 887,
+      "symbol": "amssymb-OT1-_Supset"
+    },
+    {
+      "index": 888,
+      "symbol": "tipa-OT1-_textturnk"
+    },
+    {
+      "index": 889,
+      "symbol": "textcomp-OT1-_textblank"
+    },
+    {
+      "index": 890,
+      "symbol": "amssymb-OT1-_downdownarrows"
+    },
+    {
+      "index": 891,
+      "symbol": "amssymb-OT1-_supsetneqq"
+    },
+    {
+      "index": 892,
+      "symbol": "textcomp-OT1-_textquotestraightbase"
+    },
+    {
+      "index": 893,
+      "symbol": "tipa-OT1-_textupstep"
+    },
+    {
+      "index": 894,
+      "symbol": "latex2e-OT1-_textparagraph"
+    },
+    {
+      "index": 895,
+      "symbol": "textcomp-OT1-_textdblhyphenchar"
+    },
+    {
+      "index": 896,
+      "symbol": "marvosym-OT1-_Virgo"
+    },
+    {
+      "index": 897,
+      "symbol": "amssymb-OT1-_mathfrak{U}"
+    },
+    {
+      "index": 898,
+      "symbol": "textcomp-OT1-_textcurrency"
+    },
+    {
+      "index": 899,
+      "symbol": "tipa-OT1-_textcrinvglotstop"
+    },
+    {
+      "index": 900,
+      "symbol": "amsmath-OT1-_dotso"
+    },
+    {
+      "index": 901,
+      "symbol": "wasysym-OT1-_LEFTarrow"
+    },
+    {
+      "index": 902,
+      "symbol": "tipa-OT1-_textinvglotstop"
+    },
+    {
+      "index": 903,
+      "symbol": "tipa-OT1-_textdyoghlig"
+    },
+    {
+      "index": 904,
+      "symbol": "tipa-OT1-_textturnrrtail"
+    },
+    {
+      "index": 905,
+      "symbol": "amssymb-OT1-_Lsh"
+    },
+    {
+      "index": 906,
+      "symbol": "stmaryrd-OT1-_Lbag"
+    },
+    {
+      "index": 907,
+      "symbol": "wasysym-OT1-_DOWNarrow"
+    },
+    {
+      "index": 908,
+      "symbol": "tipa-OT1-_textiota"
+    },
+    {
+      "index": 909,
+      "symbol": "dsfont-OT1-_mathds{X}"
+    },
+    {
+      "index": 910,
+      "symbol": "dsfont-OT1-_mathds{W}"
+    },
+    {
+      "index": 911,
+      "symbol": "marvosym-OT1-_Libra"
+    },
+    {
+      "index": 912,
+      "symbol": "amssymb-OT1-_precapprox"
+    },
+    {
+      "index": 913,
+      "symbol": "textcomp-OT1-_textguarani"
+    },
+    {
+      "index": 914,
+      "symbol": "amssymb-OT1-_fallingdotseq"
+    },
+    {
+      "index": 915,
+      "symbol": "tipa-OT1-_texthtrtaild"
+    },
+    {
+      "index": 916,
+      "symbol": "tipa-OT1-_textbarglotstop"
+    },
+    {
+      "index": 917,
+      "symbol": "tipa-OT1-_textbardotlessj"
+    },
+    {
+      "index": 918,
+      "symbol": "latex2e-OT1-_mathellipsis"
+    },
+    {
+      "index": 919,
+      "symbol": "amssymb-OT1-_Finv"
+    },
+    {
+      "index": 920,
+      "symbol": "amssymb-OT1-_lneq"
+    },
+    {
+      "index": 921,
+      "symbol": "tipa-OT1-_textctz"
+    },
+    {
+      "index": 922,
+      "symbol": "amssymb-OT1-_risingdotseq"
+    },
+    {
+      "index": 923,
+      "symbol": "textcomp-OT1-_texteuro"
+    },
+    {
+      "index": 924,
+      "symbol": "tipa-OT1-_textvibyi"
+    },
+    {
+      "index": 925,
+      "symbol": "amssymb-OT1-_curlyeqprec"
+    },
+    {
+      "index": 926,
+      "symbol": "wasysym-OT1-_LHD"
+    },
+    {
+      "index": 927,
+      "symbol": "amssymb-OT1-_mathfrak{E}"
+    },
+    {
+      "index": 928,
+      "symbol": "wasysym-OT1-_recorder"
+    },
+    {
+      "index": 929,
+      "symbol": "tipa-OT1-_textctdctzlig"
+    },
+    {
+      "index": 930,
+      "symbol": "tipa-OT1-_textraisevibyi"
+    },
+    {
+      "index": 931,
+      "symbol": "tipa-OT1-_textturnlonglegr"
+    },
+    {
+      "index": 932,
+      "symbol": "wasysym-OT1-_wasylozenge"
+    },
+    {
+      "index": 933,
+      "symbol": "amssymb-OT1-_downharpoonleft"
+    },
+    {
+      "index": 934,
+      "symbol": "tipa-OT1-_texththeng"
+    },
+    {
+      "index": 935,
+      "symbol": "textcomp-OT1-_textrquill"
+    },
+    {
+      "index": 936,
+      "symbol": "tipa-OT1-_textturny"
+    },
+    {
+      "index": 937,
+      "symbol": "tipa-OT1-_textturnmrleg"
+    },
+    {
+      "index": 938,
+      "symbol": "tipa-OT1-_textctt"
+    },
+    {
+      "index": 939,
+      "symbol": "tipa-OT1-_textrtails"
+    },
+    {
+      "index": 940,
+      "symbol": "tipa-OT1-_textcloseepsilon"
+    },
+    {
+      "index": 941,
+      "symbol": "tipa-OT1-_textturncelig"
+    },
+    {
+      "index": 942,
+      "symbol": "esint-OT1-_iiiint"
+    },
+    {
+      "index": 943,
+      "symbol": "amssymb-OT1-_succnapprox"
+    },
+    {
+      "index": 944,
+      "symbol": "dsfont-OT1-_mathds{J}"
+    },
+    {
+      "index": 945,
+      "symbol": "tipa-OT1-_textObardotlessj"
+    },
+    {
+      "index": 946,
+      "symbol": "stmaryrd-OT1-_inplus"
+    },
+    {
+      "index": 947,
+      "symbol": "textcomp-OT1-_textthreequartersemdash"
+    },
+    {
+      "index": 948,
+      "symbol": "amssymb-OT1-_leftrightarrows"
+    },
+    {
+      "index": 949,
+      "symbol": "amssymb-OT1-_ntrianglelefteq"
+    },
+    {
+      "index": 950,
+      "symbol": "amssymb-OT1-_gtreqqless"
+    },
+    {
+      "index": 951,
+      "symbol": "mathrsfs-OT1-_mathscr{W}"
+    },
+    {
+      "index": 952,
+      "symbol": "stmaryrd-OT1-_leftarrowtriangle"
+    },
+    {
+      "index": 953,
+      "symbol": "tipa-OT1-_texthtd"
+    },
+    {
+      "index": 954,
+      "symbol": "tipa-OT1-_textfishhookr"
+    },
+    {
+      "index": 955,
+      "symbol": "amssymb-OT1-_ntriangleleft"
+    },
+    {
+      "index": 956,
+      "symbol": "amssymb-OT1-_divideontimes"
+    },
+    {
+      "index": 957,
+      "symbol": "marvosym-OT1-_Moon"
+    },
+    {
+      "index": 958,
+      "symbol": "latex2e-OT1-_textperiodcentered"
+    },
+    {
+      "index": 959,
+      "symbol": "stmaryrd-OT1-_leftrightarrowtriangle"
+    },
+    {
+      "index": 960,
+      "symbol": "tipa-OT1-_textctesh"
+    },
+    {
+      "index": 961,
+      "symbol": "stmaryrd-OT1-_rrparenthesis"
+    },
+    {
+      "index": 962,
+      "symbol": "mathrsfs-OT1-_mathscr{Z}"
+    },
+    {
+      "index": 963,
+      "symbol": "textcomp-OT1-_textcolonmonetary"
+    },
+    {
+      "index": 964,
+      "symbol": "tipa-OT1-_textlyoghlig"
+    },
+    {
+      "index": 965,
+      "symbol": "amssymb-OT1-_ngeqq"
+    },
+    {
+      "index": 966,
+      "symbol": "textcomp-OT1-_textrangle"
+    },
+    {
+      "index": 967,
+      "symbol": "amssymb-OT1-_gneqq"
+    },
+    {
+      "index": 968,
+      "symbol": "amssymb-OT1-_lnsim"
+    },
+    {
+      "index": 969,
+      "symbol": "amssymb-OT1-_mathfrak{Z}"
+    },
+    {
+      "index": 970,
+      "symbol": "tipa-OT1-_textstretchc"
+    },
+    {
+      "index": 971,
+      "symbol": "amssymb-OT1-_eqslantgtr"
+    },
+    {
+      "index": 972,
+      "symbol": "tipa-OT1-_textcttctclig"
+    },
+    {
+      "index": 973,
+      "symbol": "tipa-OT1-_textbarc"
+    },
+    {
+      "index": 974,
+      "symbol": "tipa-OT1-_textglobfall"
+    },
+    {
+      "index": 975,
+      "symbol": "tipa-OT1-_textturnt"
+    },
+    {
+      "index": 976,
+      "symbol": "tipa-OT1-_textrevyogh"
+    },
+    {
+      "index": 977,
+      "symbol": "tipa-OT1-_textctd"
+    },
+    {
+      "index": 978,
+      "symbol": "amssymb-OT1-_npreceq"
+    },
+    {
+      "index": 979,
+      "symbol": "tipa-OT1-_textltilde"
+    },
+    {
+      "index": 980,
+      "symbol": "amssymb-OT1-_mathfrak{T}"
+    },
+    {
+      "index": 981,
+      "symbol": "tipa-OT1-_texthtk"
+    },
+    {
+      "index": 982,
+      "symbol": "dsfont-OT1-_mathds{S}"
+    },
+    {
+      "index": 983,
+      "symbol": "amssymb-OT1-_mathfrak{H}"
+    },
+    {
+      "index": 984,
+      "symbol": "amssymb-OT1-_ntriangleright"
+    },
+    {
+      "index": 985,
+      "symbol": "mathrsfs-OT1-_mathscr{Y}"
+    },
+    {
+      "index": 986,
+      "symbol": "tipa-OT1-_texthtq"
+    },
+    {
+      "index": 987,
+      "symbol": "tipa-OT1-_textcrb"
+    },
+    {
+      "index": 988,
+      "symbol": "tipa-OT1-_texthtb"
+    },
+    {
+      "index": 989,
+      "symbol": "tipa-OT1-_texthvlig"
+    },
+    {
+      "index": 990,
+      "symbol": "amssymb-OT1-_lesseqqgtr"
+    },
+    {
+      "index": 991,
+      "symbol": "tipa-OT1-_textteshlig"
+    },
+    {
+      "index": 992,
+      "symbol": "amssymb-OT1-_nVDash"
+    },
+    {
+      "index": 993,
+      "symbol": "wasysym-OT1-_UParrow"
+    },
+    {
+      "index": 994,
+      "symbol": "tipa-OT1-_texthtg"
+    },
+    {
+      "index": 995,
+      "symbol": "stmaryrd-OT1-_nnwarrow"
+    },
+    {
+      "index": 996,
+      "symbol": "marvosym-OT1-_Sagittarius"
+    },
+    {
+      "index": 997,
+      "symbol": "tipa-OT1-_textscoelig"
+    },
+    {
+      "index": 998,
+      "symbol": "tipa-OT1-_textbeltl"
+    },
+    {
+      "index": 999,
+      "symbol": "tipa-OT1-_textbullseye"
+    },
+    {
+      "index": 1000,
+      "symbol": "amssymb-OT1-_nleqq"
+    },
+    {
+      "index": 1001,
+      "symbol": "amssymb-OT1-_ngeqslant"
+    },
+    {
+      "index": 1002,
+      "symbol": "stmaryrd-OT1-_sswarrow"
+    },
+    {
+      "index": 1003,
+      "symbol": "tipa-OT1-_textbarb"
+    },
+    {
+      "index": 1004,
+      "symbol": "tipa-OT1-_textctn"
+    },
+    {
+      "index": 1005,
+      "symbol": "amssymb-OT1-_ntrianglerighteq"
+    },
+    {
+      "index": 1006,
+      "symbol": "stmaryrd-OT1-_niplus"
+    },
+    {
+      "index": 1007,
+      "symbol": "dsfont-OT1-_mathds{T}"
+    },
+    {
+      "index": 1008,
+      "symbol": "tipa-OT1-_textlhtlongy"
+    },
+    {
+      "index": 1009,
+      "symbol": "amssymb-OT1-_eqslantless"
+    },
+    {
+      "index": 1010,
+      "symbol": "tipa-OT1-_texttoneletterstem"
+    },
+    {
+      "index": 1011,
+      "symbol": "esint-OT1-_sqiint"
+    },
+    {
+      "index": 1012,
+      "symbol": "amssymb-OT1-_curlyeqsucc"
+    },
+    {
+      "index": 1013,
+      "symbol": "esint-OT1-_landdownint"
+    },
+    {
+      "index": 1014,
+      "symbol": "tipa-OT1-_textscriptv"
+    },
+    {
+      "index": 1015,
+      "symbol": "tipa-OT1-_textrhookrevepsilon"
+    },
+    {
+      "index": 1016,
+      "symbol": "amssymb-OT1-_leftarrowtail"
+    },
+    {
+      "index": 1017,
+      "symbol": "amssymb-OT1-_mathfrak{V}"
+    },
+    {
+      "index": 1018,
+      "symbol": "tipa-OT1-_textcommatailz"
+    },
+    {
+      "index": 1019,
+      "symbol": "dsfont-OT1-_mathds{h}"
+    },
+    {
+      "index": 1020,
+      "symbol": "amssymb-OT1-_mathfrak{C}"
+    },
+    {
+      "index": 1021,
+      "symbol": "tipa-OT1-_texthtc"
+    },
+    {
+      "index": 1022,
+      "symbol": "tipa-OT1-_texttctclig"
+    },
+    {
+      "index": 1023,
+      "symbol": "tipa-OT1-_textrtaild"
+    },
+    {
+      "index": 1024,
+      "symbol": "amssymb-OT1-_Lleftarrow"
+    },
+    {
+      "index": 1025,
+      "symbol": "esint-OT1-_landupint"
+    },
+    {
+      "index": 1026,
+      "symbol": "tipa-OT1-_texthooktop"
+    },
+    {
+      "index": 1027,
+      "symbol": "tipa-OT1-_textbarl"
+    },
+    {
+      "index": 1028,
+      "symbol": "tipa-OT1-_texthtscg"
+    },
+    {
+      "index": 1029,
+      "symbol": "amssymb-OT1-_mathfrak{L}"
+    },
+    {
+      "index": 1030,
+      "symbol": "tipa-OT1-_textturnm"
+    },
+    {
+      "index": 1031,
+      "symbol": "tipa-OT1-_textbarg"
+    },
+    {
+      "index": 1032,
+      "symbol": "tipa-OT1-_textraiseglotstop"
+    },
+    {
+      "index": 1033,
+      "symbol": "amssymb-OT1-_supseteqq"
+    },
+    {
+      "index": 1034,
+      "symbol": "amssymb-OT1-_varsubsetneqq"
+    },
+    {
+      "index": 1035,
+      "symbol": "tipa-OT1-_textlhookt"
+    },
+    {
+      "index": 1036,
+      "symbol": "textcomp-OT1-_textdong"
+    },
+    {
+      "index": 1037,
+      "symbol": "amssymb-OT1-_varsupsetneqq"
+    },
+    {
+      "index": 1038,
+      "symbol": "amssymb-OT1-_mathfrak{O}"
+    },
+    {
+      "index": 1039,
+      "symbol": "tipa-OT1-_textrthook"
+    },
+    {
+      "index": 1040,
+      "symbol": "amssymb-OT1-_mathfrak{l}"
+    },
+    {
+      "index": 1041,
+      "symbol": "stmaryrd-OT1-_Longmapsto"
+    },
+    {
+      "index": 1042,
+      "symbol": "stmaryrd-OT1-_lbag"
+    },
+    {
+      "index": 1043,
+      "symbol": "stmaryrd-OT1-_rrceil"
+    },
+    {
+      "index": 1044,
+      "symbol": "amssymb-OT1-_mathfrak{f}"
+    },
+    {
+      "index": 1045,
+      "symbol": "amssymb-OT1-_mathfrak{x}"
+    },
+    {
+      "index": 1046,
+      "symbol": "textcomp-OT1-_textpilcrow"
+    },
+    {
+      "index": 1047,
+      "symbol": "amssymb-OT1-_mathfrak{j}"
+    },
+    {
+      "index": 1048,
+      "symbol": "textcomp-OT1-_textservicemark"
+    },
+    {
+      "index": 1049,
+      "symbol": "wasysym-OT1-_RIGHTarrow"
+    },
+    {
+      "index": 1050,
+      "symbol": "amssymb-OT1-_gvertneqq"
+    },
+    {
+      "index": 1051,
+      "symbol": "amssymb-OT1-_nsupseteqq"
+    },
+    {
+      "index": 1052,
+      "symbol": "amssymb-OT1-_mathfrak{o}"
+    },
+    {
+      "index": 1053,
+      "symbol": "amssymb-OT1-_mathfrak{d}"
+    },
+    {
+      "index": 1054,
+      "symbol": "stmaryrd-OT1-_rrfloor"
+    },
+    {
+      "index": 1055,
+      "symbol": "tipa-OT1-_texthtp"
+    },
+    {
+      "index": 1056,
+      "symbol": "dsfont-OT1-_mathds{k}"
+    },
+    {
+      "index": 1057,
+      "symbol": "dsfont-OT1-_mathds{Y}"
+    },
+    {
+      "index": 1058,
+      "symbol": "wasysym-OT1-_opposition"
+    },
+    {
+      "index": 1059,
+      "symbol": "tipa-OT1-_textvibyy"
+    },
+    {
+      "index": 1060,
+      "symbol": "amssymb-OT1-_precnsim"
+    },
+    {
+      "index": 1061,
+      "symbol": "amssymb-OT1-_succnsim"
+    },
+    {
+      "index": 1062,
+      "symbol": "amssymb-OT1-_lnapprox"
+    },
+    {
+      "index": 1063,
+      "symbol": "amssymb-OT1-_mathfrak{i}"
+    },
+    {
+      "index": 1064,
+      "symbol": "amssymb-OT1-_gnsim"
+    },
+    {
+      "index": 1065,
+      "symbol": "amssymb-OT1-_lvertneqq"
+    },
+    {
+      "index": 1066,
+      "symbol": "amssymb-OT1-_mathfrak{a}"
+    },
+    {
+      "index": 1067,
+      "symbol": "amssymb-OT1-_mathfrak{c}"
+    },
+    {
+      "index": 1068,
+      "symbol": "amssymb-OT1-_mathfrak{b}"
+    },
+    {
+      "index": 1069,
+      "symbol": "amssymb-OT1-_mathfrak{e}"
+    },
+    {
+      "index": 1070,
+      "symbol": "amssymb-OT1-_mathfrak{g}"
+    },
+    {
+      "index": 1071,
+      "symbol": "amssymb-OT1-_mathfrak{h}"
+    },
+    {
+      "index": 1072,
+      "symbol": "amssymb-OT1-_mathfrak{k}"
+    },
+    {
+      "index": 1073,
+      "symbol": "amssymb-OT1-_mathfrak{m}"
+    },
+    {
+      "index": 1074,
+      "symbol": "amssymb-OT1-_mathfrak{n}"
+    },
+    {
+      "index": 1075,
+      "symbol": "amssymb-OT1-_mathfrak{q}"
+    },
+    {
+      "index": 1076,
+      "symbol": "amssymb-OT1-_mathfrak{p}"
+    },
+    {
+      "index": 1077,
+      "symbol": "amssymb-OT1-_mathfrak{s}"
+    },
+    {
+      "index": 1078,
+      "symbol": "amssymb-OT1-_mathfrak{r}"
+    },
+    {
+      "index": 1079,
+      "symbol": "marvosym-OT1-_Pickup"
+    },
+    {
+      "index": 1080,
+      "symbol": "amssymb-OT1-_mathfrak{t}"
+    },
+    {
+      "index": 1081,
+      "symbol": "amssymb-OT1-_mathfrak{u}"
+    },
+    {
+      "index": 1082,
+      "symbol": "amssymb-OT1-_mathfrak{v}"
+    },
+    {
+      "index": 1083,
+      "symbol": "amssymb-OT1-_mathfrak{w}"
+    },
+    {
+      "index": 1084,
+      "symbol": "amssymb-OT1-_mathfrak{y}"
+    },
+    {
+      "index": 1085,
+      "symbol": "amssymb-OT1-_mathfrak{z}"
+    },
+    {
+      "index": 1086,
+      "symbol": "tipa-OT1-_textbard"
+    },
+    {
+      "index": 1087,
+      "symbol": "tipa-OT1-_texthtt"
+    },
+    {
+      "index": 1088,
+      "symbol": "tipa-OT1-_textdctzlig"
+    },
+    {
+      "index": 1089,
+      "symbol": "stmaryrd-OT1-_Mapsfrom"
+    },
+    {
+      "index": 1090,
+      "symbol": "amssymb-OT1-_succapprox"
+    },
+    {
+      "index": 1091,
+      "symbol": "amssymb-OT1-_precnapprox"
+    },
+    {
+      "index": 1092,
+      "symbol": "tipa-OT1-_textcloserevepsilon"
+    },
+    {
+      "index": 1093,
+      "symbol": "tipa-OT1-_textcrg"
+    },
+    {
+      "index": 1094,
+      "symbol": "amssymb-OT1-_nsucceq"
+    },
+    {
+      "index": 1095,
+      "symbol": "stmaryrd-OT1-_Longmapsfrom"
+    },
+    {
+      "index": 1096,
+      "symbol": "amssymb-OT1-_mathfrak{G}"
+    },
+    {
+      "index": 1097,
+      "symbol": "tipa-OT1-_texttslig"
+    }
+  ]
+}
